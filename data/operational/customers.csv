@@ -1,0 +1,1001 @@
+customer_id,company_name,industry,region,state,city,employee_count,customer_segment,acquisition_channel,customer_since,customer_status
+C0001,Alpha Technologies 0001,Education,South,Kerala,Kochi,23,SMB,Organic,2025-09-23,Inactive
+C0002,Nova Solutions 0002,Retail,West,Maharashtra,Mumbai,1581,Enterprise,Partner,2025-07-09,Active
+C0003,Vertex Industries 0003,Manufacturing,South,Telangana,Hyderabad,949,Mid-Market,Outbound Sales,2024-09-06,Active
+C0004,BluePeak Systems 0004,Financial Services,West,Maharashtra,Nashik,16,SMB,Outbound Sales,2024-03-10,Active
+C0005,Green Labs 0005,Manufacturing,North,Punjab,Amritsar,97,SMB,Outbound Sales,2025-10-16,Active
+C0006,Apex Technologies 0006,Manufacturing,South,Telangana,Hyderabad,23,SMB,Partner,2024-11-08,Active
+C0007,Orbit Solutions 0007,Telecommunications,South,Kerala,Kochi,99,SMB,Outbound Sales,2024-10-31,Active
+C0008,Prime Industries 0008,Manufacturing,East,Jharkhand,Ranchi,544,Mid-Market,Outbound Sales,2025-02-28,Active
+C0009,Summit Systems 0009,Technology,South,Karnataka,Bengaluru,426,Mid-Market,Referral,2025-08-20,Active
+C0010,Bright Labs 0010,Telecommunications,East,West Bengal,Kolkata,453,Mid-Market,Paid Search,2024-01-28,Active
+C0011,Alpha Technologies 0011,Education,North,Delhi,New Delhi,26,SMB,Referral,2025-09-01,Active
+C0012,Nova Solutions 0012,Telecommunications,North,Haryana,Gurugram,4588,Enterprise,Event,2025-05-28,Active
+C0013,Vertex Industries 0013,Education,North,Haryana,Faridabad,979,Mid-Market,Event,2025-03-10,Active
+C0014,BluePeak Systems 0014,Healthcare,South,Telangana,Hyderabad,68,SMB,Organic,2025-10-11,Inactive
+C0015,Green Labs 0015,Retail,North,Uttar Pradesh,Lucknow,16,SMB,Outbound Sales,2024-10-03,Active
+C0016,Apex Technologies 0016,Telecommunications,North,Haryana,Gurugram,94,SMB,Event,2024-03-19,Active
+C0017,Orbit Solutions 0017,Healthcare,West,Gujarat,Ahmedabad,72,SMB,Organic,2024-03-06,Active
+C0018,Prime Industries 0018,Retail,East,West Bengal,Kolkata,51,SMB,Partner,2024-08-14,Active
+C0019,Summit Systems 0019,Healthcare,West,Goa,Panaji,59,SMB,Event,2025-03-02,Active
+C0020,Bright Labs 0020,Telecommunications,South,Telangana,Hyderabad,83,SMB,Organic,2024-01-08,Active
+C0021,Alpha Technologies 0021,Media & Entertainment,West,Maharashtra,Nashik,658,Mid-Market,Outbound Sales,2024-08-25,Active
+C0022,Nova Solutions 0022,Healthcare,West,Gujarat,Surat,11,SMB,Referral,2026-02-13,Active
+C0023,Vertex Industries 0023,Technology,East,Bihar,Patna,49,SMB,Event,2025-04-30,Active
+C0024,BluePeak Systems 0024,Education,South,Andhra Pradesh,Vijayawada,57,SMB,Event,2025-09-10,Active
+C0025,Green Labs 0025,Logistics,East,Bihar,Patna,41,SMB,Event,2025-10-10,Active
+C0026,Apex Technologies 0026,Financial Services,East,Bihar,Patna,208,Mid-Market,Paid Search,2026-06-05,Active
+C0027,Orbit Solutions 0027,Manufacturing,South,Karnataka,Bengaluru,68,SMB,Outbound Sales,2024-09-03,Active
+C0028,Prime Industries 0028,Manufacturing,West,Maharashtra,Mumbai,29,SMB,Outbound Sales,2025-10-27,Active
+C0029,Summit Systems 0029,Education,East,Jharkhand,Ranchi,18,SMB,Referral,2025-01-06,Active
+C0030,Bright Labs 0030,Telecommunications,North,Uttar Pradesh,Noida,20,SMB,Outbound Sales,2025-03-25,Active
+C0031,Alpha Technologies 0031,Media & Entertainment,South,Karnataka,Mysuru,230,Mid-Market,Organic,2025-08-10,Active
+C0032,Nova Solutions 0032,Healthcare,South,Telangana,Hyderabad,99,SMB,Partner,2024-07-08,Active
+C0033,Vertex Industries 0033,Telecommunications,South,Tamil Nadu,Madurai,56,SMB,Referral,2024-12-03,Active
+C0034,BluePeak Systems 0034,Healthcare,West,Gujarat,Ahmedabad,3884,Enterprise,Organic,2025-09-11,Active
+C0035,Green Labs 0035,Professional Services,South,Andhra Pradesh,Vijayawada,2953,Enterprise,Organic,2024-03-06,Active
+C0036,Apex Technologies 0036,Healthcare,South,Tamil Nadu,Chennai,858,Mid-Market,Outbound Sales,2026-05-04,Active
+C0037,Orbit Solutions 0037,Manufacturing,North,Delhi,New Delhi,56,SMB,Referral,2026-03-16,Active
+C0038,Prime Industries 0038,Technology,South,Andhra Pradesh,Visakhapatnam,55,SMB,Outbound Sales,2025-10-15,Active
+C0039,Summit Systems 0039,Technology,North,Punjab,Amritsar,944,Mid-Market,Organic,2024-07-25,Active
+C0040,Bright Labs 0040,Professional Services,East,Bihar,Patna,32,SMB,Referral,2025-03-18,Active
+C0041,Alpha Technologies 0041,Retail,South,Telangana,Hyderabad,81,SMB,Partner,2025-12-02,Active
+C0042,Nova Solutions 0042,Healthcare,South,Karnataka,Mysuru,96,SMB,Outbound Sales,2025-10-23,Active
+C0043,Vertex Industries 0043,Retail,East,Bihar,Patna,51,SMB,Referral,2024-10-01,Active
+C0044,BluePeak Systems 0044,Logistics,East,Odisha,Bhubaneswar,4134,Enterprise,Partner,2024-03-13,Active
+C0045,Green Labs 0045,Manufacturing,West,Goa,Panaji,56,SMB,Outbound Sales,2025-02-01,Active
+C0046,Apex Technologies 0046,Retail,West,Maharashtra,Pune,364,Mid-Market,Partner,2024-11-15,Active
+C0047,Orbit Solutions 0047,Retail,South,Kerala,Kochi,68,SMB,Referral,2024-11-29,Active
+C0048,Prime Industries 0048,Education,South,Telangana,Hyderabad,17,SMB,Organic,2025-05-28,Active
+C0049,Summit Systems 0049,Technology,East,Bihar,Patna,64,SMB,Outbound Sales,2024-01-16,Active
+C0050,Bright Labs 0050,Financial Services,South,Telangana,Hyderabad,44,SMB,Organic,2026-02-17,Inactive
+C0051,Alpha Technologies 0051,Technology,West,Maharashtra,Mumbai,2327,Enterprise,Outbound Sales,2024-10-02,Active
+C0052,Nova Solutions 0052,Financial Services,North,Delhi,New Delhi,544,Mid-Market,Partner,2024-11-19,Active
+C0053,Vertex Industries 0053,Professional Services,East,West Bengal,Kolkata,2031,Enterprise,Event,2024-10-27,Active
+C0054,BluePeak Systems 0054,Healthcare,South,Telangana,Hyderabad,273,Mid-Market,Outbound Sales,2025-07-12,Active
+C0055,Green Labs 0055,Education,East,West Bengal,Kolkata,31,SMB,Event,2024-08-19,Inactive
+C0056,Apex Technologies 0056,Retail,West,Maharashtra,Nashik,1131,Enterprise,Referral,2026-04-02,Active
+C0057,Orbit Solutions 0057,Financial Services,West,Maharashtra,Nashik,95,SMB,Outbound Sales,2025-05-06,Inactive
+C0058,Prime Industries 0058,Education,West,Maharashtra,Mumbai,81,SMB,Paid Search,2024-03-27,Active
+C0059,Summit Systems 0059,Professional Services,South,Tamil Nadu,Chennai,21,SMB,Paid Search,2024-09-18,Active
+C0060,Bright Labs 0060,Healthcare,South,Karnataka,Bengaluru,66,SMB,Partner,2024-04-02,Active
+C0061,Alpha Technologies 0061,Education,South,Kerala,Thiruvananthapuram,93,SMB,Outbound Sales,2026-04-03,Active
+C0062,Nova Solutions 0062,Technology,East,West Bengal,Kolkata,71,SMB,Event,2024-05-15,Active
+C0063,Vertex Industries 0063,Education,South,Andhra Pradesh,Visakhapatnam,803,Mid-Market,Outbound Sales,2024-11-13,Active
+C0064,BluePeak Systems 0064,Technology,East,West Bengal,Kolkata,97,SMB,Paid Search,2025-07-02,Active
+C0065,Green Labs 0065,Healthcare,South,Kerala,Kochi,48,SMB,Paid Search,2024-07-01,Active
+C0066,Apex Technologies 0066,Healthcare,West,Goa,Panaji,55,SMB,Outbound Sales,2025-07-10,Active
+C0067,Orbit Solutions 0067,Media & Entertainment,West,Maharashtra,Mumbai,21,SMB,Referral,2025-03-20,Active
+C0068,Prime Industries 0068,Logistics,East,Odisha,Bhubaneswar,552,Mid-Market,Organic,2025-06-03,Active
+C0069,Summit Systems 0069,Financial Services,North,Punjab,Ludhiana,58,SMB,Referral,2025-11-17,Active
+C0070,Bright Labs 0070,Professional Services,South,Tamil Nadu,Madurai,1419,Enterprise,Referral,2025-08-16,Active
+C0071,Alpha Technologies 0071,Telecommunications,North,Delhi,New Delhi,431,Mid-Market,Referral,2025-01-12,Active
+C0072,Nova Solutions 0072,Healthcare,East,Bihar,Patna,38,SMB,Referral,2024-04-14,Active
+C0073,Vertex Industries 0073,Telecommunications,West,Gujarat,Surat,91,SMB,Organic,2025-07-16,Active
+C0074,BluePeak Systems 0074,Education,South,Kerala,Thiruvananthapuram,553,Mid-Market,Organic,2025-10-28,Active
+C0075,Green Labs 0075,Healthcare,North,Haryana,Faridabad,357,Mid-Market,Event,2024-03-21,Active
+C0076,Apex Technologies 0076,Technology,West,Goa,Panaji,912,Mid-Market,Paid Search,2024-12-22,Active
+C0077,Orbit Solutions 0077,Manufacturing,South,Tamil Nadu,Madurai,507,Mid-Market,Paid Search,2025-05-19,Active
+C0078,Prime Industries 0078,Education,North,Haryana,Faridabad,54,SMB,Partner,2025-01-09,Active
+C0079,Summit Systems 0079,Telecommunications,North,Uttar Pradesh,Lucknow,41,SMB,Organic,2025-03-26,Active
+C0080,Bright Labs 0080,Telecommunications,West,Goa,Panaji,57,SMB,Event,2025-11-02,Active
+C0081,Alpha Technologies 0081,Manufacturing,South,Telangana,Hyderabad,778,Mid-Market,Outbound Sales,2024-10-16,Active
+C0082,Nova Solutions 0082,Media & Entertainment,West,Maharashtra,Mumbai,292,Mid-Market,Organic,2025-07-12,Active
+C0083,Vertex Industries 0083,Technology,West,Goa,Panaji,52,SMB,Paid Search,2025-04-23,Active
+C0084,BluePeak Systems 0084,Education,South,Andhra Pradesh,Vijayawada,43,SMB,Outbound Sales,2025-11-18,Active
+C0085,Green Labs 0085,Professional Services,West,Maharashtra,Mumbai,59,SMB,Event,2026-04-16,Active
+C0086,Apex Technologies 0086,Education,West,Goa,Panaji,54,SMB,Paid Search,2026-02-10,Active
+C0087,Orbit Solutions 0087,Manufacturing,East,Bihar,Patna,333,Mid-Market,Partner,2025-07-16,Active
+C0088,Prime Industries 0088,Manufacturing,South,Andhra Pradesh,Vijayawada,224,Mid-Market,Organic,2025-07-02,Inactive
+C0089,Summit Systems 0089,Retail,West,Gujarat,Surat,885,Mid-Market,Event,2024-07-19,Inactive
+C0090,Bright Labs 0090,Financial Services,South,Telangana,Hyderabad,78,SMB,Referral,2024-06-13,Active
+C0091,Alpha Technologies 0091,Healthcare,South,Andhra Pradesh,Visakhapatnam,96,SMB,Event,2026-06-17,Active
+C0092,Nova Solutions 0092,Logistics,South,Andhra Pradesh,Vijayawada,482,Mid-Market,Partner,2025-06-16,Inactive
+C0093,Vertex Industries 0093,Financial Services,West,Maharashtra,Nashik,379,Mid-Market,Partner,2025-09-28,Active
+C0094,BluePeak Systems 0094,Professional Services,West,Goa,Panaji,26,SMB,Paid Search,2024-04-08,Active
+C0095,Green Labs 0095,Manufacturing,South,Karnataka,Bengaluru,264,Mid-Market,Referral,2026-05-02,Active
+C0096,Apex Technologies 0096,Education,West,Gujarat,Ahmedabad,73,SMB,Organic,2024-03-31,Active
+C0097,Orbit Solutions 0097,Technology,West,Gujarat,Ahmedabad,20,SMB,Referral,2025-05-01,Active
+C0098,Prime Industries 0098,Healthcare,North,Delhi,New Delhi,55,SMB,Organic,2025-06-07,Inactive
+C0099,Summit Systems 0099,Technology,West,Gujarat,Ahmedabad,64,SMB,Outbound Sales,2026-01-31,Active
+C0100,Bright Labs 0100,Healthcare,West,Goa,Panaji,24,SMB,Referral,2025-12-15,Active
+C0101,Alpha Technologies 0101,Healthcare,West,Goa,Panaji,62,SMB,Organic,2025-12-31,Active
+C0102,Nova Solutions 0102,Telecommunications,West,Goa,Panaji,871,Mid-Market,Event,2024-12-30,Active
+C0103,Vertex Industries 0103,Professional Services,South,Andhra Pradesh,Visakhapatnam,90,SMB,Outbound Sales,2026-05-30,Active
+C0104,BluePeak Systems 0104,Logistics,South,Kerala,Kochi,78,SMB,Event,2024-01-13,Inactive
+C0105,Green Labs 0105,Media & Entertainment,South,Andhra Pradesh,Vijayawada,1682,Enterprise,Event,2026-04-14,Active
+C0106,Apex Technologies 0106,Telecommunications,West,Maharashtra,Pune,50,SMB,Organic,2025-10-25,Active
+C0107,Orbit Solutions 0107,Logistics,North,Punjab,Ludhiana,17,SMB,Paid Search,2026-03-04,Active
+C0108,Prime Industries 0108,Manufacturing,South,Kerala,Kochi,391,Mid-Market,Outbound Sales,2024-01-25,Active
+C0109,Summit Systems 0109,Healthcare,South,Andhra Pradesh,Vijayawada,82,SMB,Outbound Sales,2024-05-06,Active
+C0110,Bright Labs 0110,Retail,West,Goa,Panaji,18,SMB,Organic,2026-03-12,Active
+C0111,Alpha Technologies 0111,Financial Services,West,Gujarat,Ahmedabad,81,SMB,Outbound Sales,2026-02-09,Active
+C0112,Nova Solutions 0112,Logistics,South,Kerala,Kochi,25,SMB,Referral,2024-03-06,Active
+C0113,Vertex Industries 0113,Media & Entertainment,North,Uttar Pradesh,Lucknow,4429,Enterprise,Referral,2024-07-06,Active
+C0114,BluePeak Systems 0114,Professional Services,West,Goa,Panaji,607,Mid-Market,Partner,2024-10-16,Active
+C0115,Green Labs 0115,Technology,South,Kerala,Thiruvananthapuram,832,Mid-Market,Partner,2024-08-18,Active
+C0116,Apex Technologies 0116,Healthcare,West,Gujarat,Ahmedabad,880,Mid-Market,Partner,2025-06-16,Active
+C0117,Orbit Solutions 0117,Media & Entertainment,West,Gujarat,Ahmedabad,436,Mid-Market,Organic,2024-07-01,Active
+C0118,Prime Industries 0118,Financial Services,West,Gujarat,Surat,29,SMB,Outbound Sales,2024-06-08,Active
+C0119,Summit Systems 0119,Retail,North,Uttar Pradesh,Noida,507,Mid-Market,Referral,2026-04-26,Active
+C0120,Bright Labs 0120,Financial Services,South,Karnataka,Mysuru,40,SMB,Organic,2024-10-16,Active
+C0121,Alpha Technologies 0121,Technology,North,Delhi,New Delhi,815,Mid-Market,Outbound Sales,2025-07-14,Active
+C0122,Nova Solutions 0122,Logistics,West,Gujarat,Surat,195,Mid-Market,Event,2025-12-26,Active
+C0123,Vertex Industries 0123,Telecommunications,West,Maharashtra,Pune,78,SMB,Outbound Sales,2026-06-07,Active
+C0124,BluePeak Systems 0124,Retail,South,Kerala,Kochi,36,SMB,Outbound Sales,2025-11-04,Active
+C0125,Green Labs 0125,Professional Services,East,Bihar,Patna,22,SMB,Partner,2024-03-23,Active
+C0126,Apex Technologies 0126,Technology,East,West Bengal,Kolkata,26,SMB,Partner,2025-11-28,Active
+C0127,Orbit Solutions 0127,Manufacturing,East,West Bengal,Kolkata,731,Mid-Market,Organic,2024-06-23,Active
+C0128,Prime Industries 0128,Retail,East,West Bengal,Kolkata,635,Mid-Market,Paid Search,2026-05-25,Active
+C0129,Summit Systems 0129,Manufacturing,North,Haryana,Gurugram,30,SMB,Referral,2026-05-01,Active
+C0130,Bright Labs 0130,Telecommunications,South,Andhra Pradesh,Vijayawada,57,SMB,Referral,2026-05-20,Active
+C0131,Alpha Technologies 0131,Logistics,West,Gujarat,Surat,87,SMB,Outbound Sales,2024-08-14,Active
+C0132,Nova Solutions 0132,Telecommunications,North,Haryana,Gurugram,22,SMB,Paid Search,2024-04-09,Active
+C0133,Vertex Industries 0133,Financial Services,North,Punjab,Amritsar,65,SMB,Organic,2024-04-09,Active
+C0134,BluePeak Systems 0134,Education,West,Goa,Panaji,45,SMB,Referral,2024-09-30,Active
+C0135,Green Labs 0135,Healthcare,West,Maharashtra,Pune,2461,Enterprise,Outbound Sales,2024-03-05,Active
+C0136,Apex Technologies 0136,Manufacturing,North,Delhi,New Delhi,63,SMB,Organic,2025-10-11,Active
+C0137,Orbit Solutions 0137,Education,North,Delhi,New Delhi,46,SMB,Outbound Sales,2024-04-11,Active
+C0138,Prime Industries 0138,Technology,North,Haryana,Faridabad,774,Mid-Market,Paid Search,2025-01-21,Active
+C0139,Summit Systems 0139,Retail,East,Jharkhand,Ranchi,33,SMB,Paid Search,2025-06-24,Active
+C0140,Bright Labs 0140,Technology,South,Karnataka,Mysuru,4904,Enterprise,Partner,2026-05-01,Active
+C0141,Alpha Technologies 0141,Telecommunications,West,Gujarat,Surat,4866,Enterprise,Outbound Sales,2025-05-16,Active
+C0142,Nova Solutions 0142,Retail,South,Andhra Pradesh,Visakhapatnam,42,SMB,Referral,2024-02-24,Active
+C0143,Vertex Industries 0143,Healthcare,West,Goa,Panaji,86,SMB,Partner,2025-10-08,Active
+C0144,BluePeak Systems 0144,Education,South,Kerala,Thiruvananthapuram,96,SMB,Partner,2025-12-29,Active
+C0145,Green Labs 0145,Logistics,South,Kerala,Kochi,38,SMB,Referral,2025-09-01,Active
+C0146,Apex Technologies 0146,Retail,North,Uttar Pradesh,Lucknow,18,SMB,Outbound Sales,2025-09-22,Active
+C0147,Orbit Solutions 0147,Technology,West,Goa,Panaji,899,Mid-Market,Outbound Sales,2025-06-23,Active
+C0148,Prime Industries 0148,Telecommunications,South,Telangana,Hyderabad,80,SMB,Partner,2024-12-27,Active
+C0149,Summit Systems 0149,Professional Services,North,Delhi,New Delhi,92,SMB,Outbound Sales,2024-09-23,Inactive
+C0150,Bright Labs 0150,Retail,West,Goa,Panaji,37,SMB,Outbound Sales,2025-05-05,Active
+C0151,Alpha Technologies 0151,Financial Services,South,Telangana,Hyderabad,2592,Enterprise,Outbound Sales,2025-07-12,Active
+C0152,Nova Solutions 0152,Professional Services,North,Haryana,Gurugram,93,SMB,Outbound Sales,2026-03-30,Active
+C0153,Vertex Industries 0153,Media & Entertainment,South,Karnataka,Mysuru,36,SMB,Outbound Sales,2026-01-07,Active
+C0154,BluePeak Systems 0154,Financial Services,North,Delhi,New Delhi,15,SMB,Outbound Sales,2024-10-20,Active
+C0155,Green Labs 0155,Education,West,Gujarat,Ahmedabad,4294,Enterprise,Partner,2026-01-03,Active
+C0156,Apex Technologies 0156,Financial Services,West,Maharashtra,Nashik,42,SMB,Outbound Sales,2025-12-21,Inactive
+C0157,Orbit Solutions 0157,Retail,East,Jharkhand,Ranchi,591,Mid-Market,Organic,2025-08-04,Active
+C0158,Prime Industries 0158,Telecommunications,East,Jharkhand,Ranchi,795,Mid-Market,Outbound Sales,2026-04-11,Inactive
+C0159,Summit Systems 0159,Education,South,Andhra Pradesh,Visakhapatnam,27,SMB,Outbound Sales,2024-01-19,Active
+C0160,Bright Labs 0160,Financial Services,West,Gujarat,Surat,359,Mid-Market,Organic,2025-09-11,Active
+C0161,Alpha Technologies 0161,Professional Services,North,Punjab,Ludhiana,89,SMB,Outbound Sales,2025-03-25,Inactive
+C0162,Nova Solutions 0162,Logistics,South,Telangana,Hyderabad,594,Mid-Market,Organic,2025-08-28,Active
+C0163,Vertex Industries 0163,Telecommunications,North,Uttar Pradesh,Lucknow,853,Mid-Market,Referral,2026-05-03,Active
+C0164,BluePeak Systems 0164,Professional Services,North,Uttar Pradesh,Noida,37,SMB,Outbound Sales,2024-09-11,Active
+C0165,Green Labs 0165,Education,North,Uttar Pradesh,Lucknow,64,SMB,Organic,2025-03-31,Active
+C0166,Apex Technologies 0166,Media & Entertainment,West,Maharashtra,Mumbai,550,Mid-Market,Outbound Sales,2026-05-25,Active
+C0167,Orbit Solutions 0167,Telecommunications,East,Odisha,Bhubaneswar,36,SMB,Outbound Sales,2025-06-29,Inactive
+C0168,Prime Industries 0168,Healthcare,North,Delhi,New Delhi,76,SMB,Paid Search,2025-02-07,Active
+C0169,Summit Systems 0169,Retail,South,Kerala,Thiruvananthapuram,87,SMB,Organic,2024-01-17,Active
+C0170,Bright Labs 0170,Technology,West,Maharashtra,Nashik,91,SMB,Referral,2024-11-19,Active
+C0171,Alpha Technologies 0171,Telecommunications,South,Andhra Pradesh,Vijayawada,727,Mid-Market,Partner,2026-05-04,Active
+C0172,Nova Solutions 0172,Telecommunications,South,Karnataka,Bengaluru,26,SMB,Event,2024-10-04,Active
+C0173,Vertex Industries 0173,Healthcare,East,West Bengal,Kolkata,20,SMB,Partner,2026-04-03,Active
+C0174,BluePeak Systems 0174,Logistics,South,Kerala,Kochi,69,SMB,Referral,2024-07-17,Active
+C0175,Green Labs 0175,Media & Entertainment,North,Delhi,New Delhi,504,Mid-Market,Partner,2025-04-06,Active
+C0176,Apex Technologies 0176,Logistics,East,Odisha,Bhubaneswar,17,SMB,Partner,2025-07-06,Active
+C0177,Orbit Solutions 0177,Manufacturing,South,Tamil Nadu,Madurai,935,Mid-Market,Outbound Sales,2026-06-08,Inactive
+C0178,Prime Industries 0178,Retail,West,Goa,Panaji,33,SMB,Organic,2024-10-09,Active
+C0179,Summit Systems 0179,Technology,North,Uttar Pradesh,Lucknow,4075,Enterprise,Outbound Sales,2026-04-14,Active
+C0180,Bright Labs 0180,Telecommunications,West,Goa,Panaji,78,SMB,Partner,2026-05-12,Active
+C0181,Alpha Technologies 0181,Professional Services,South,Tamil Nadu,Coimbatore,79,SMB,Event,2024-12-22,Active
+C0182,Nova Solutions 0182,Education,South,Andhra Pradesh,Visakhapatnam,93,SMB,Referral,2025-05-29,Active
+C0183,Vertex Industries 0183,Telecommunications,North,Uttar Pradesh,Lucknow,4109,Enterprise,Partner,2025-05-25,Active
+C0184,BluePeak Systems 0184,Telecommunications,North,Punjab,Amritsar,405,Mid-Market,Event,2025-06-25,Active
+C0185,Green Labs 0185,Education,South,Kerala,Thiruvananthapuram,66,SMB,Organic,2025-01-16,Active
+C0186,Apex Technologies 0186,Logistics,West,Gujarat,Ahmedabad,409,Mid-Market,Event,2025-10-22,Active
+C0187,Orbit Solutions 0187,Telecommunications,West,Gujarat,Surat,542,Mid-Market,Outbound Sales,2024-06-10,Active
+C0188,Prime Industries 0188,Telecommunications,South,Karnataka,Mysuru,26,SMB,Organic,2026-04-15,Inactive
+C0189,Summit Systems 0189,Retail,South,Andhra Pradesh,Vijayawada,74,SMB,Referral,2024-07-09,Active
+C0190,Bright Labs 0190,Logistics,East,Bihar,Patna,97,SMB,Outbound Sales,2024-07-12,Active
+C0191,Alpha Technologies 0191,Telecommunications,West,Maharashtra,Nashik,32,SMB,Organic,2025-01-12,Active
+C0192,Nova Solutions 0192,Education,South,Kerala,Kochi,576,Mid-Market,Partner,2024-03-13,Active
+C0193,Vertex Industries 0193,Logistics,North,Delhi,New Delhi,2538,Enterprise,Referral,2024-12-02,Active
+C0194,BluePeak Systems 0194,Retail,West,Maharashtra,Nashik,573,Mid-Market,Partner,2026-02-21,Active
+C0195,Green Labs 0195,Media & Entertainment,West,Goa,Panaji,52,SMB,Organic,2026-06-02,Active
+C0196,Apex Technologies 0196,Healthcare,West,Gujarat,Ahmedabad,13,SMB,Outbound Sales,2025-12-28,Active
+C0197,Orbit Solutions 0197,Manufacturing,North,Delhi,New Delhi,267,Mid-Market,Event,2024-12-04,Active
+C0198,Prime Industries 0198,Healthcare,North,Haryana,Faridabad,624,Mid-Market,Event,2024-08-27,Active
+C0199,Summit Systems 0199,Retail,East,Jharkhand,Ranchi,990,Mid-Market,Outbound Sales,2025-07-08,Active
+C0200,Bright Labs 0200,Telecommunications,North,Uttar Pradesh,Noida,613,Mid-Market,Organic,2025-01-10,Active
+C0201,Alpha Technologies 0201,Logistics,North,Punjab,Amritsar,474,Mid-Market,Outbound Sales,2025-03-26,Active
+C0202,Nova Solutions 0202,Technology,East,Odisha,Bhubaneswar,89,SMB,Organic,2026-04-19,Active
+C0203,Vertex Industries 0203,Education,South,Andhra Pradesh,Visakhapatnam,14,SMB,Organic,2024-10-09,Active
+C0204,BluePeak Systems 0204,Technology,South,Tamil Nadu,Coimbatore,168,Mid-Market,Referral,2024-04-27,Active
+C0205,Green Labs 0205,Logistics,South,Tamil Nadu,Madurai,825,Mid-Market,Paid Search,2024-07-15,Active
+C0206,Apex Technologies 0206,Logistics,East,West Bengal,Kolkata,93,SMB,Outbound Sales,2025-11-24,Active
+C0207,Orbit Solutions 0207,Professional Services,South,Kerala,Thiruvananthapuram,63,SMB,Outbound Sales,2025-04-21,Active
+C0208,Prime Industries 0208,Media & Entertainment,South,Karnataka,Bengaluru,668,Mid-Market,Paid Search,2025-01-26,Active
+C0209,Summit Systems 0209,Financial Services,South,Karnataka,Bengaluru,37,SMB,Referral,2024-11-13,Active
+C0210,Bright Labs 0210,Logistics,North,Delhi,New Delhi,58,SMB,Event,2025-12-31,Active
+C0211,Alpha Technologies 0211,Professional Services,South,Karnataka,Mysuru,98,SMB,Paid Search,2026-03-13,Active
+C0212,Nova Solutions 0212,Education,North,Haryana,Faridabad,538,Mid-Market,Paid Search,2024-10-21,Active
+C0213,Vertex Industries 0213,Healthcare,South,Tamil Nadu,Coimbatore,247,Mid-Market,Organic,2024-04-17,Active
+C0214,BluePeak Systems 0214,Media & Entertainment,West,Gujarat,Ahmedabad,43,SMB,Outbound Sales,2026-04-14,Active
+C0215,Green Labs 0215,Financial Services,West,Gujarat,Ahmedabad,542,Mid-Market,Outbound Sales,2024-04-09,Active
+C0216,Apex Technologies 0216,Manufacturing,East,West Bengal,Kolkata,92,SMB,Referral,2024-06-02,Active
+C0217,Orbit Solutions 0217,Professional Services,East,Odisha,Bhubaneswar,60,SMB,Organic,2025-07-13,Active
+C0218,Prime Industries 0218,Retail,West,Gujarat,Surat,124,Mid-Market,Outbound Sales,2024-10-10,Active
+C0219,Summit Systems 0219,Retail,East,West Bengal,Kolkata,263,Mid-Market,Partner,2024-03-23,Inactive
+C0220,Bright Labs 0220,Technology,North,Haryana,Faridabad,899,Mid-Market,Referral,2024-09-18,Inactive
+C0221,Alpha Technologies 0221,Manufacturing,West,Goa,Panaji,153,Mid-Market,Event,2025-11-20,Active
+C0222,Nova Solutions 0222,Telecommunications,East,Jharkhand,Ranchi,24,SMB,Organic,2025-10-05,Active
+C0223,Vertex Industries 0223,Media & Entertainment,West,Goa,Panaji,26,SMB,Paid Search,2024-02-12,Active
+C0224,BluePeak Systems 0224,Logistics,North,Delhi,New Delhi,49,SMB,Event,2024-02-08,Active
+C0225,Green Labs 0225,Manufacturing,South,Telangana,Hyderabad,56,SMB,Paid Search,2025-07-28,Active
+C0226,Apex Technologies 0226,Media & Entertainment,South,Karnataka,Mysuru,84,SMB,Partner,2024-03-01,Active
+C0227,Orbit Solutions 0227,Education,West,Gujarat,Surat,2327,Enterprise,Paid Search,2025-05-17,Active
+C0228,Prime Industries 0228,Healthcare,West,Goa,Panaji,72,SMB,Referral,2025-08-11,Active
+C0229,Summit Systems 0229,Healthcare,West,Maharashtra,Nashik,987,Mid-Market,Event,2025-08-25,Active
+C0230,Bright Labs 0230,Telecommunications,North,Delhi,New Delhi,172,Mid-Market,Paid Search,2025-05-23,Active
+C0231,Alpha Technologies 0231,Telecommunications,South,Telangana,Hyderabad,895,Mid-Market,Outbound Sales,2026-05-14,Active
+C0232,Nova Solutions 0232,Education,South,Kerala,Kochi,11,SMB,Referral,2025-03-20,Active
+C0233,Vertex Industries 0233,Financial Services,West,Gujarat,Surat,46,SMB,Organic,2024-11-30,Active
+C0234,BluePeak Systems 0234,Education,West,Goa,Panaji,67,SMB,Organic,2024-07-03,Active
+C0235,Green Labs 0235,Technology,West,Maharashtra,Nashik,63,SMB,Partner,2024-03-28,Active
+C0236,Apex Technologies 0236,Education,North,Haryana,Faridabad,853,Mid-Market,Referral,2024-04-30,Active
+C0237,Orbit Solutions 0237,Logistics,South,Andhra Pradesh,Visakhapatnam,83,SMB,Outbound Sales,2026-05-09,Active
+C0238,Prime Industries 0238,Technology,North,Punjab,Amritsar,92,SMB,Paid Search,2026-03-13,Active
+C0239,Summit Systems 0239,Telecommunications,South,Telangana,Hyderabad,382,Mid-Market,Event,2024-11-07,Active
+C0240,Bright Labs 0240,Logistics,South,Karnataka,Mysuru,97,SMB,Organic,2024-06-01,Active
+C0241,Alpha Technologies 0241,Logistics,East,Jharkhand,Ranchi,1621,Enterprise,Outbound Sales,2024-06-25,Active
+C0242,Nova Solutions 0242,Healthcare,South,Tamil Nadu,Chennai,3876,Enterprise,Outbound Sales,2024-05-16,Active
+C0243,Vertex Industries 0243,Logistics,South,Tamil Nadu,Coimbatore,3308,Enterprise,Outbound Sales,2025-03-01,Active
+C0244,BluePeak Systems 0244,Manufacturing,West,Gujarat,Ahmedabad,95,SMB,Outbound Sales,2025-04-01,Active
+C0245,Green Labs 0245,Professional Services,West,Gujarat,Surat,32,SMB,Outbound Sales,2024-02-14,Active
+C0246,Apex Technologies 0246,Education,East,West Bengal,Kolkata,1645,Enterprise,Partner,2025-09-11,Active
+C0247,Orbit Solutions 0247,Media & Entertainment,West,Gujarat,Ahmedabad,41,SMB,Organic,2025-05-13,Active
+C0248,Prime Industries 0248,Logistics,West,Goa,Panaji,3979,Enterprise,Organic,2025-11-04,Active
+C0249,Summit Systems 0249,Professional Services,South,Kerala,Thiruvananthapuram,4982,Enterprise,Event,2025-01-16,Inactive
+C0250,Bright Labs 0250,Healthcare,East,West Bengal,Kolkata,274,Mid-Market,Partner,2024-10-15,Active
+C0251,Alpha Technologies 0251,Education,North,Uttar Pradesh,Noida,74,SMB,Outbound Sales,2024-12-19,Active
+C0252,Nova Solutions 0252,Logistics,West,Maharashtra,Nashik,86,SMB,Paid Search,2025-07-13,Active
+C0253,Vertex Industries 0253,Technology,South,Karnataka,Bengaluru,170,Mid-Market,Organic,2024-09-25,Active
+C0254,BluePeak Systems 0254,Technology,North,Haryana,Gurugram,62,SMB,Organic,2024-07-11,Active
+C0255,Green Labs 0255,Media & Entertainment,East,Bihar,Patna,12,SMB,Outbound Sales,2024-07-25,Active
+C0256,Apex Technologies 0256,Technology,South,Tamil Nadu,Coimbatore,37,SMB,Paid Search,2024-03-13,Active
+C0257,Orbit Solutions 0257,Education,West,Gujarat,Surat,3472,Enterprise,Organic,2025-05-13,Active
+C0258,Prime Industries 0258,Healthcare,North,Haryana,Gurugram,438,Mid-Market,Paid Search,2025-10-20,Active
+C0259,Summit Systems 0259,Professional Services,South,Tamil Nadu,Coimbatore,60,SMB,Organic,2025-01-18,Active
+C0260,Bright Labs 0260,Retail,East,Jharkhand,Ranchi,66,SMB,Partner,2026-05-21,Inactive
+C0261,Alpha Technologies 0261,Retail,West,Maharashtra,Pune,933,Mid-Market,Referral,2024-11-28,Active
+C0262,Nova Solutions 0262,Healthcare,East,Bihar,Patna,2769,Enterprise,Outbound Sales,2026-01-02,Active
+C0263,Vertex Industries 0263,Retail,South,Kerala,Kochi,71,SMB,Referral,2025-10-05,Active
+C0264,BluePeak Systems 0264,Technology,South,Kerala,Thiruvananthapuram,39,SMB,Paid Search,2024-08-22,Active
+C0265,Green Labs 0265,Telecommunications,South,Telangana,Hyderabad,581,Mid-Market,Organic,2024-11-12,Active
+C0266,Apex Technologies 0266,Logistics,West,Maharashtra,Pune,413,Mid-Market,Organic,2026-05-18,Active
+C0267,Orbit Solutions 0267,Logistics,North,Uttar Pradesh,Noida,454,Mid-Market,Paid Search,2025-04-29,Active
+C0268,Prime Industries 0268,Healthcare,North,Punjab,Amritsar,541,Mid-Market,Paid Search,2025-02-04,Active
+C0269,Summit Systems 0269,Media & Entertainment,West,Gujarat,Surat,95,SMB,Partner,2025-07-27,Active
+C0270,Bright Labs 0270,Telecommunications,West,Goa,Panaji,63,SMB,Referral,2025-06-11,Active
+C0271,Alpha Technologies 0271,Technology,South,Kerala,Thiruvananthapuram,705,Mid-Market,Outbound Sales,2026-01-03,Active
+C0272,Nova Solutions 0272,Technology,West,Gujarat,Surat,470,Mid-Market,Outbound Sales,2026-05-07,Active
+C0273,Vertex Industries 0273,Technology,South,Tamil Nadu,Madurai,294,Mid-Market,Outbound Sales,2025-11-08,Active
+C0274,BluePeak Systems 0274,Logistics,West,Maharashtra,Pune,4693,Enterprise,Organic,2026-02-19,Active
+C0275,Green Labs 0275,Logistics,South,Andhra Pradesh,Visakhapatnam,88,SMB,Paid Search,2025-01-22,Active
+C0276,Apex Technologies 0276,Professional Services,South,Telangana,Hyderabad,93,SMB,Organic,2024-07-22,Active
+C0277,Orbit Solutions 0277,Professional Services,South,Andhra Pradesh,Visakhapatnam,707,Mid-Market,Referral,2025-11-05,Active
+C0278,Prime Industries 0278,Professional Services,East,Jharkhand,Ranchi,316,Mid-Market,Event,2024-02-25,Active
+C0279,Summit Systems 0279,Financial Services,South,Andhra Pradesh,Visakhapatnam,203,Mid-Market,Organic,2024-03-17,Active
+C0280,Bright Labs 0280,Retail,North,Delhi,New Delhi,281,Mid-Market,Paid Search,2026-06-11,Active
+C0281,Alpha Technologies 0281,Media & Entertainment,East,West Bengal,Kolkata,898,Mid-Market,Partner,2024-03-31,Active
+C0282,Nova Solutions 0282,Technology,South,Kerala,Kochi,24,SMB,Outbound Sales,2025-02-03,Active
+C0283,Vertex Industries 0283,Manufacturing,East,Bihar,Patna,68,SMB,Partner,2025-05-13,Active
+C0284,BluePeak Systems 0284,Media & Entertainment,South,Karnataka,Bengaluru,41,SMB,Organic,2025-11-25,Active
+C0285,Green Labs 0285,Healthcare,West,Maharashtra,Mumbai,19,SMB,Referral,2024-12-04,Active
+C0286,Apex Technologies 0286,Healthcare,West,Gujarat,Ahmedabad,52,SMB,Paid Search,2025-10-26,Active
+C0287,Orbit Solutions 0287,Manufacturing,East,Bihar,Patna,64,SMB,Organic,2025-06-23,Active
+C0288,Prime Industries 0288,Media & Entertainment,East,Jharkhand,Ranchi,59,SMB,Referral,2026-06-18,Active
+C0289,Summit Systems 0289,Financial Services,North,Delhi,New Delhi,23,SMB,Organic,2025-12-15,Inactive
+C0290,Bright Labs 0290,Manufacturing,South,Karnataka,Mysuru,96,SMB,Organic,2024-03-15,Active
+C0291,Alpha Technologies 0291,Healthcare,South,Kerala,Kochi,98,SMB,Paid Search,2024-06-30,Active
+C0292,Nova Solutions 0292,Education,North,Punjab,Amritsar,74,SMB,Organic,2025-10-16,Active
+C0293,Vertex Industries 0293,Financial Services,West,Goa,Panaji,820,Mid-Market,Partner,2024-04-02,Inactive
+C0294,BluePeak Systems 0294,Professional Services,South,Tamil Nadu,Madurai,68,SMB,Outbound Sales,2024-02-12,Active
+C0295,Green Labs 0295,Financial Services,North,Haryana,Faridabad,12,SMB,Outbound Sales,2024-06-04,Active
+C0296,Apex Technologies 0296,Professional Services,West,Gujarat,Surat,45,SMB,Organic,2025-03-13,Active
+C0297,Orbit Solutions 0297,Media & Entertainment,South,Kerala,Thiruvananthapuram,759,Mid-Market,Organic,2024-01-08,Active
+C0298,Prime Industries 0298,Logistics,South,Telangana,Hyderabad,64,SMB,Organic,2024-05-23,Active
+C0299,Summit Systems 0299,Professional Services,West,Goa,Panaji,338,Mid-Market,Partner,2024-06-03,Active
+C0300,Bright Labs 0300,Media & Entertainment,East,West Bengal,Kolkata,44,SMB,Outbound Sales,2024-06-27,Active
+C0301,Alpha Technologies 0301,Manufacturing,North,Punjab,Ludhiana,66,SMB,Organic,2024-09-20,Inactive
+C0302,Nova Solutions 0302,Technology,South,Telangana,Hyderabad,62,SMB,Event,2025-09-22,Active
+C0303,Vertex Industries 0303,Financial Services,East,Odisha,Bhubaneswar,38,SMB,Organic,2025-05-08,Active
+C0304,BluePeak Systems 0304,Professional Services,West,Gujarat,Surat,862,Mid-Market,Partner,2024-10-02,Active
+C0305,Green Labs 0305,Manufacturing,South,Telangana,Hyderabad,882,Mid-Market,Outbound Sales,2025-04-29,Active
+C0306,Apex Technologies 0306,Professional Services,North,Uttar Pradesh,Lucknow,2319,Enterprise,Outbound Sales,2024-08-23,Active
+C0307,Orbit Solutions 0307,Technology,South,Andhra Pradesh,Vijayawada,65,SMB,Outbound Sales,2024-02-29,Active
+C0308,Prime Industries 0308,Retail,South,Andhra Pradesh,Vijayawada,45,SMB,Outbound Sales,2024-04-10,Active
+C0309,Summit Systems 0309,Manufacturing,South,Karnataka,Bengaluru,474,Mid-Market,Referral,2024-01-11,Active
+C0310,Bright Labs 0310,Logistics,West,Gujarat,Surat,33,SMB,Outbound Sales,2024-12-20,Active
+C0311,Alpha Technologies 0311,Financial Services,South,Karnataka,Bengaluru,64,SMB,Organic,2024-04-15,Active
+C0312,Nova Solutions 0312,Professional Services,West,Maharashtra,Mumbai,57,SMB,Outbound Sales,2025-06-13,Active
+C0313,Vertex Industries 0313,Technology,North,Haryana,Gurugram,88,SMB,Partner,2026-04-10,Active
+C0314,BluePeak Systems 0314,Telecommunications,North,Uttar Pradesh,Lucknow,4289,Enterprise,Outbound Sales,2025-12-31,Active
+C0315,Green Labs 0315,Financial Services,West,Gujarat,Ahmedabad,543,Mid-Market,Paid Search,2024-11-22,Active
+C0316,Apex Technologies 0316,Professional Services,South,Telangana,Hyderabad,286,Mid-Market,Partner,2024-12-10,Active
+C0317,Orbit Solutions 0317,Media & Entertainment,South,Tamil Nadu,Chennai,15,SMB,Partner,2025-08-11,Active
+C0318,Prime Industries 0318,Education,East,Odisha,Bhubaneswar,13,SMB,Outbound Sales,2025-07-04,Active
+C0319,Summit Systems 0319,Healthcare,South,Telangana,Hyderabad,62,SMB,Organic,2026-01-03,Active
+C0320,Bright Labs 0320,Professional Services,South,Karnataka,Mysuru,31,SMB,Organic,2025-08-30,Active
+C0321,Alpha Technologies 0321,Media & Entertainment,West,Gujarat,Ahmedabad,15,SMB,Referral,2024-07-24,Active
+C0322,Nova Solutions 0322,Manufacturing,South,Kerala,Thiruvananthapuram,276,Mid-Market,Organic,2026-04-06,Active
+C0323,Vertex Industries 0323,Retail,South,Tamil Nadu,Madurai,386,Mid-Market,Outbound Sales,2026-02-04,Active
+C0324,BluePeak Systems 0324,Financial Services,South,Telangana,Hyderabad,22,SMB,Organic,2025-07-10,Active
+C0325,Green Labs 0325,Technology,South,Telangana,Hyderabad,3764,Enterprise,Event,2024-12-02,Active
+C0326,Apex Technologies 0326,Logistics,West,Maharashtra,Mumbai,157,Mid-Market,Referral,2024-11-23,Active
+C0327,Orbit Solutions 0327,Technology,South,Kerala,Thiruvananthapuram,68,SMB,Organic,2026-02-19,Active
+C0328,Prime Industries 0328,Financial Services,North,Delhi,New Delhi,371,Mid-Market,Outbound Sales,2026-06-05,Active
+C0329,Summit Systems 0329,Financial Services,West,Gujarat,Ahmedabad,22,SMB,Partner,2025-08-30,Active
+C0330,Bright Labs 0330,Professional Services,South,Andhra Pradesh,Vijayawada,30,SMB,Paid Search,2025-09-15,Active
+C0331,Alpha Technologies 0331,Technology,South,Tamil Nadu,Coimbatore,62,SMB,Partner,2025-04-15,Active
+C0332,Nova Solutions 0332,Healthcare,East,West Bengal,Kolkata,793,Mid-Market,Outbound Sales,2025-01-01,Active
+C0333,Vertex Industries 0333,Telecommunications,North,Uttar Pradesh,Noida,41,SMB,Referral,2026-02-21,Active
+C0334,BluePeak Systems 0334,Professional Services,West,Goa,Panaji,71,SMB,Event,2024-09-24,Active
+C0335,Green Labs 0335,Media & Entertainment,South,Kerala,Kochi,52,SMB,Event,2026-05-12,Active
+C0336,Apex Technologies 0336,Education,North,Delhi,New Delhi,49,SMB,Partner,2025-02-10,Active
+C0337,Orbit Solutions 0337,Telecommunications,South,Andhra Pradesh,Visakhapatnam,291,Mid-Market,Organic,2025-05-13,Active
+C0338,Prime Industries 0338,Financial Services,South,Kerala,Kochi,955,Mid-Market,Outbound Sales,2026-03-27,Active
+C0339,Summit Systems 0339,Professional Services,North,Punjab,Ludhiana,37,SMB,Organic,2024-09-29,Active
+C0340,Bright Labs 0340,Education,South,Karnataka,Mysuru,46,SMB,Organic,2025-01-05,Active
+C0341,Alpha Technologies 0341,Technology,South,Kerala,Thiruvananthapuram,67,SMB,Referral,2024-09-25,Active
+C0342,Nova Solutions 0342,Professional Services,North,Punjab,Amritsar,92,SMB,Paid Search,2024-07-04,Active
+C0343,Vertex Industries 0343,Technology,South,Telangana,Hyderabad,10,SMB,Outbound Sales,2024-07-28,Inactive
+C0344,BluePeak Systems 0344,Education,East,Jharkhand,Ranchi,97,SMB,Outbound Sales,2025-12-20,Active
+C0345,Green Labs 0345,Professional Services,South,Tamil Nadu,Madurai,25,SMB,Outbound Sales,2024-07-02,Active
+C0346,Apex Technologies 0346,Professional Services,South,Andhra Pradesh,Visakhapatnam,610,Mid-Market,Paid Search,2026-03-12,Active
+C0347,Orbit Solutions 0347,Healthcare,West,Gujarat,Ahmedabad,381,Mid-Market,Referral,2024-12-25,Active
+C0348,Prime Industries 0348,Healthcare,South,Kerala,Thiruvananthapuram,36,SMB,Referral,2025-04-08,Active
+C0349,Summit Systems 0349,Financial Services,South,Andhra Pradesh,Vijayawada,35,SMB,Event,2025-11-17,Active
+C0350,Bright Labs 0350,Technology,East,Bihar,Patna,231,Mid-Market,Organic,2024-03-27,Active
+C0351,Alpha Technologies 0351,Retail,West,Gujarat,Surat,12,SMB,Outbound Sales,2025-01-12,Active
+C0352,Nova Solutions 0352,Media & Entertainment,North,Haryana,Gurugram,545,Mid-Market,Partner,2025-04-25,Active
+C0353,Vertex Industries 0353,Telecommunications,South,Telangana,Hyderabad,401,Mid-Market,Paid Search,2024-01-25,Active
+C0354,BluePeak Systems 0354,Financial Services,West,Gujarat,Ahmedabad,56,SMB,Outbound Sales,2025-04-15,Active
+C0355,Green Labs 0355,Financial Services,South,Kerala,Thiruvananthapuram,32,SMB,Paid Search,2024-07-10,Active
+C0356,Apex Technologies 0356,Media & Entertainment,West,Maharashtra,Nashik,302,Mid-Market,Outbound Sales,2025-07-26,Active
+C0357,Orbit Solutions 0357,Education,West,Goa,Panaji,46,SMB,Event,2024-02-25,Active
+C0358,Prime Industries 0358,Healthcare,South,Tamil Nadu,Madurai,11,SMB,Paid Search,2025-03-24,Active
+C0359,Summit Systems 0359,Professional Services,North,Uttar Pradesh,Lucknow,1843,Enterprise,Referral,2025-08-24,Active
+C0360,Bright Labs 0360,Telecommunications,South,Andhra Pradesh,Visakhapatnam,63,SMB,Partner,2026-01-01,Inactive
+C0361,Alpha Technologies 0361,Retail,South,Karnataka,Bengaluru,65,SMB,Event,2025-05-09,Active
+C0362,Nova Solutions 0362,Technology,South,Tamil Nadu,Madurai,377,Mid-Market,Organic,2025-07-05,Inactive
+C0363,Vertex Industries 0363,Education,South,Karnataka,Mysuru,51,SMB,Partner,2025-02-08,Active
+C0364,BluePeak Systems 0364,Media & Entertainment,West,Maharashtra,Pune,56,SMB,Partner,2026-02-23,Active
+C0365,Green Labs 0365,Professional Services,South,Tamil Nadu,Coimbatore,1428,Enterprise,Outbound Sales,2026-02-12,Active
+C0366,Apex Technologies 0366,Manufacturing,North,Haryana,Gurugram,36,SMB,Organic,2024-09-25,Active
+C0367,Orbit Solutions 0367,Technology,South,Telangana,Hyderabad,1005,Enterprise,Outbound Sales,2025-12-09,Active
+C0368,Prime Industries 0368,Education,West,Gujarat,Surat,4886,Enterprise,Event,2024-01-05,Active
+C0369,Summit Systems 0369,Logistics,South,Karnataka,Mysuru,13,SMB,Organic,2026-02-23,Active
+C0370,Bright Labs 0370,Healthcare,West,Goa,Panaji,24,SMB,Referral,2024-01-19,Active
+C0371,Alpha Technologies 0371,Professional Services,South,Kerala,Thiruvananthapuram,44,SMB,Event,2024-05-01,Active
+C0372,Nova Solutions 0372,Healthcare,South,Andhra Pradesh,Visakhapatnam,80,SMB,Organic,2024-12-28,Inactive
+C0373,Vertex Industries 0373,Retail,South,Andhra Pradesh,Vijayawada,67,SMB,Outbound Sales,2024-05-07,Active
+C0374,BluePeak Systems 0374,Financial Services,West,Gujarat,Surat,528,Mid-Market,Paid Search,2026-05-07,Active
+C0375,Green Labs 0375,Telecommunications,West,Gujarat,Surat,33,SMB,Referral,2026-02-21,Active
+C0376,Apex Technologies 0376,Logistics,South,Karnataka,Mysuru,80,SMB,Outbound Sales,2025-05-18,Active
+C0377,Orbit Solutions 0377,Financial Services,West,Maharashtra,Nashik,897,Mid-Market,Paid Search,2025-04-02,Active
+C0378,Prime Industries 0378,Logistics,North,Delhi,New Delhi,48,SMB,Paid Search,2025-07-25,Active
+C0379,Summit Systems 0379,Logistics,North,Haryana,Faridabad,733,Mid-Market,Referral,2025-05-08,Active
+C0380,Bright Labs 0380,Telecommunications,West,Gujarat,Surat,24,SMB,Partner,2025-02-27,Active
+C0381,Alpha Technologies 0381,Healthcare,South,Telangana,Hyderabad,15,SMB,Organic,2025-09-15,Active
+C0382,Nova Solutions 0382,Technology,North,Punjab,Ludhiana,195,Mid-Market,Paid Search,2025-01-22,Active
+C0383,Vertex Industries 0383,Healthcare,North,Delhi,New Delhi,515,Mid-Market,Event,2025-12-26,Active
+C0384,BluePeak Systems 0384,Media & Entertainment,East,Jharkhand,Ranchi,249,Mid-Market,Referral,2026-05-29,Active
+C0385,Green Labs 0385,Financial Services,South,Telangana,Hyderabad,175,Mid-Market,Partner,2025-08-21,Active
+C0386,Apex Technologies 0386,Manufacturing,South,Tamil Nadu,Chennai,890,Mid-Market,Referral,2025-12-14,Active
+C0387,Orbit Solutions 0387,Telecommunications,South,Tamil Nadu,Coimbatore,34,SMB,Outbound Sales,2025-08-08,Active
+C0388,Prime Industries 0388,Retail,North,Haryana,Gurugram,50,SMB,Organic,2024-01-25,Active
+C0389,Summit Systems 0389,Education,South,Karnataka,Bengaluru,558,Mid-Market,Event,2025-06-06,Active
+C0390,Bright Labs 0390,Financial Services,East,Bihar,Patna,820,Mid-Market,Paid Search,2025-03-23,Active
+C0391,Alpha Technologies 0391,Technology,East,Odisha,Bhubaneswar,1977,Enterprise,Referral,2024-02-23,Active
+C0392,Nova Solutions 0392,Telecommunications,South,Kerala,Kochi,68,SMB,Organic,2026-05-07,Inactive
+C0393,Vertex Industries 0393,Retail,North,Punjab,Ludhiana,57,SMB,Organic,2024-10-24,Active
+C0394,BluePeak Systems 0394,Professional Services,East,Odisha,Bhubaneswar,573,Mid-Market,Paid Search,2026-04-06,Active
+C0395,Green Labs 0395,Technology,East,Bihar,Patna,55,SMB,Referral,2025-07-28,Active
+C0396,Apex Technologies 0396,Retail,South,Tamil Nadu,Chennai,1519,Enterprise,Outbound Sales,2026-04-16,Active
+C0397,Orbit Solutions 0397,Media & Entertainment,West,Maharashtra,Nashik,175,Mid-Market,Paid Search,2025-09-04,Active
+C0398,Prime Industries 0398,Retail,North,Uttar Pradesh,Lucknow,46,SMB,Referral,2026-03-07,Active
+C0399,Summit Systems 0399,Manufacturing,North,Uttar Pradesh,Noida,560,Mid-Market,Partner,2025-09-09,Active
+C0400,Bright Labs 0400,Retail,North,Uttar Pradesh,Noida,759,Mid-Market,Outbound Sales,2024-10-07,Active
+C0401,Alpha Technologies 0401,Healthcare,West,Gujarat,Ahmedabad,63,SMB,Organic,2026-05-17,Active
+C0402,Nova Solutions 0402,Retail,North,Delhi,New Delhi,4498,Enterprise,Organic,2026-04-09,Inactive
+C0403,Vertex Industries 0403,Healthcare,East,Jharkhand,Ranchi,45,SMB,Organic,2026-04-20,Active
+C0404,BluePeak Systems 0404,Retail,West,Goa,Panaji,434,Mid-Market,Outbound Sales,2025-03-16,Active
+C0405,Green Labs 0405,Education,South,Andhra Pradesh,Vijayawada,96,SMB,Partner,2025-09-29,Active
+C0406,Apex Technologies 0406,Telecommunications,North,Delhi,New Delhi,399,Mid-Market,Paid Search,2026-03-12,Active
+C0407,Orbit Solutions 0407,Healthcare,South,Telangana,Hyderabad,28,SMB,Outbound Sales,2025-05-04,Active
+C0408,Prime Industries 0408,Financial Services,West,Maharashtra,Nashik,92,SMB,Outbound Sales,2025-08-29,Active
+C0409,Summit Systems 0409,Logistics,West,Gujarat,Surat,3241,Enterprise,Partner,2024-11-11,Active
+C0410,Bright Labs 0410,Manufacturing,East,Bihar,Patna,97,SMB,Outbound Sales,2024-05-08,Active
+C0411,Alpha Technologies 0411,Technology,North,Haryana,Gurugram,59,SMB,Organic,2025-08-29,Active
+C0412,Nova Solutions 0412,Professional Services,North,Delhi,New Delhi,3665,Enterprise,Organic,2025-12-11,Active
+C0413,Vertex Industries 0413,Healthcare,West,Goa,Panaji,3457,Enterprise,Referral,2024-10-22,Active
+C0414,BluePeak Systems 0414,Education,South,Karnataka,Bengaluru,63,SMB,Organic,2026-03-27,Active
+C0415,Green Labs 0415,Media & Entertainment,West,Gujarat,Surat,892,Mid-Market,Partner,2024-04-05,Active
+C0416,Apex Technologies 0416,Education,South,Andhra Pradesh,Vijayawada,51,SMB,Event,2024-10-29,Active
+C0417,Orbit Solutions 0417,Media & Entertainment,South,Karnataka,Bengaluru,36,SMB,Organic,2025-07-06,Inactive
+C0418,Prime Industries 0418,Financial Services,West,Maharashtra,Pune,82,SMB,Organic,2025-06-05,Active
+C0419,Summit Systems 0419,Retail,North,Punjab,Amritsar,677,Mid-Market,Paid Search,2024-11-16,Active
+C0420,Bright Labs 0420,Manufacturing,South,Kerala,Thiruvananthapuram,770,Mid-Market,Event,2025-07-22,Inactive
+C0421,Alpha Technologies 0421,Financial Services,West,Maharashtra,Nashik,379,Mid-Market,Referral,2025-09-13,Active
+C0422,Nova Solutions 0422,Education,South,Karnataka,Mysuru,413,Mid-Market,Paid Search,2024-11-27,Active
+C0423,Vertex Industries 0423,Retail,North,Uttar Pradesh,Lucknow,87,SMB,Organic,2025-09-30,Active
+C0424,BluePeak Systems 0424,Healthcare,West,Maharashtra,Mumbai,45,SMB,Organic,2024-05-27,Inactive
+C0425,Green Labs 0425,Manufacturing,South,Andhra Pradesh,Visakhapatnam,25,SMB,Event,2025-11-29,Active
+C0426,Apex Technologies 0426,Technology,West,Gujarat,Ahmedabad,87,SMB,Event,2025-12-10,Active
+C0427,Orbit Solutions 0427,Technology,North,Haryana,Gurugram,80,SMB,Organic,2025-07-11,Active
+C0428,Prime Industries 0428,Retail,North,Punjab,Amritsar,709,Mid-Market,Event,2026-02-11,Active
+C0429,Summit Systems 0429,Manufacturing,West,Goa,Panaji,87,SMB,Partner,2026-04-26,Active
+C0430,Bright Labs 0430,Logistics,North,Delhi,New Delhi,92,SMB,Outbound Sales,2024-04-19,Active
+C0431,Alpha Technologies 0431,Education,North,Delhi,New Delhi,93,SMB,Paid Search,2024-10-17,Active
+C0432,Nova Solutions 0432,Professional Services,North,Punjab,Amritsar,936,Mid-Market,Paid Search,2025-05-22,Active
+C0433,Vertex Industries 0433,Education,South,Telangana,Hyderabad,954,Mid-Market,Paid Search,2025-08-30,Active
+C0434,BluePeak Systems 0434,Healthcare,West,Maharashtra,Pune,99,SMB,Partner,2025-06-11,Inactive
+C0435,Green Labs 0435,Retail,North,Haryana,Gurugram,10,SMB,Organic,2026-04-28,Active
+C0436,Apex Technologies 0436,Healthcare,North,Delhi,New Delhi,211,Mid-Market,Organic,2025-11-03,Active
+C0437,Orbit Solutions 0437,Logistics,North,Uttar Pradesh,Lucknow,93,SMB,Referral,2025-09-12,Active
+C0438,Prime Industries 0438,Telecommunications,East,Odisha,Bhubaneswar,886,Mid-Market,Outbound Sales,2024-04-11,Active
+C0439,Summit Systems 0439,Healthcare,South,Telangana,Hyderabad,210,Mid-Market,Organic,2026-05-26,Active
+C0440,Bright Labs 0440,Telecommunications,South,Karnataka,Mysuru,35,SMB,Partner,2024-10-25,Active
+C0441,Alpha Technologies 0441,Logistics,South,Kerala,Thiruvananthapuram,48,SMB,Event,2025-03-10,Active
+C0442,Nova Solutions 0442,Healthcare,South,Karnataka,Mysuru,1410,Enterprise,Organic,2025-06-06,Active
+C0443,Vertex Industries 0443,Professional Services,North,Haryana,Faridabad,51,SMB,Partner,2024-08-07,Active
+C0444,BluePeak Systems 0444,Retail,West,Gujarat,Ahmedabad,16,SMB,Paid Search,2024-09-23,Active
+C0445,Green Labs 0445,Manufacturing,South,Karnataka,Mysuru,977,Mid-Market,Outbound Sales,2025-10-13,Active
+C0446,Apex Technologies 0446,Education,West,Maharashtra,Mumbai,2292,Enterprise,Organic,2025-08-23,Active
+C0447,Orbit Solutions 0447,Media & Entertainment,South,Telangana,Hyderabad,2098,Enterprise,Outbound Sales,2025-04-24,Active
+C0448,Prime Industries 0448,Telecommunications,West,Gujarat,Ahmedabad,314,Mid-Market,Outbound Sales,2025-03-04,Active
+C0449,Summit Systems 0449,Technology,South,Andhra Pradesh,Visakhapatnam,45,SMB,Event,2026-02-20,Active
+C0450,Bright Labs 0450,Telecommunications,South,Telangana,Hyderabad,54,SMB,Outbound Sales,2024-03-19,Active
+C0451,Alpha Technologies 0451,Retail,West,Gujarat,Ahmedabad,658,Mid-Market,Paid Search,2024-06-29,Active
+C0452,Nova Solutions 0452,Technology,West,Goa,Panaji,98,SMB,Partner,2025-05-04,Active
+C0453,Vertex Industries 0453,Financial Services,East,West Bengal,Kolkata,83,SMB,Outbound Sales,2025-10-11,Active
+C0454,BluePeak Systems 0454,Technology,West,Maharashtra,Mumbai,2771,Enterprise,Partner,2024-07-06,Active
+C0455,Green Labs 0455,Financial Services,West,Gujarat,Surat,13,SMB,Organic,2025-05-27,Active
+C0456,Apex Technologies 0456,Retail,East,Bihar,Patna,17,SMB,Event,2026-02-03,Active
+C0457,Orbit Solutions 0457,Telecommunications,West,Goa,Panaji,52,SMB,Outbound Sales,2024-10-09,Active
+C0458,Prime Industries 0458,Retail,West,Maharashtra,Nashik,56,SMB,Partner,2026-02-01,Active
+C0459,Summit Systems 0459,Education,West,Goa,Panaji,57,SMB,Organic,2024-02-08,Active
+C0460,Bright Labs 0460,Logistics,West,Gujarat,Surat,27,SMB,Partner,2024-03-30,Active
+C0461,Alpha Technologies 0461,Education,North,Punjab,Amritsar,99,SMB,Paid Search,2025-08-21,Active
+C0462,Nova Solutions 0462,Manufacturing,North,Uttar Pradesh,Lucknow,697,Mid-Market,Partner,2024-01-19,Active
+C0463,Vertex Industries 0463,Logistics,South,Karnataka,Bengaluru,328,Mid-Market,Organic,2025-06-07,Inactive
+C0464,BluePeak Systems 0464,Manufacturing,East,West Bengal,Kolkata,85,SMB,Partner,2026-01-28,Active
+C0465,Green Labs 0465,Healthcare,West,Goa,Panaji,4956,Enterprise,Event,2024-06-20,Active
+C0466,Apex Technologies 0466,Media & Entertainment,South,Karnataka,Mysuru,47,SMB,Organic,2025-02-24,Active
+C0467,Orbit Solutions 0467,Professional Services,West,Goa,Panaji,91,SMB,Event,2024-07-14,Active
+C0468,Prime Industries 0468,Telecommunications,West,Goa,Panaji,233,Mid-Market,Paid Search,2025-03-01,Active
+C0469,Summit Systems 0469,Healthcare,South,Kerala,Thiruvananthapuram,23,SMB,Outbound Sales,2025-11-09,Active
+C0470,Bright Labs 0470,Logistics,West,Maharashtra,Pune,1428,Enterprise,Outbound Sales,2025-10-23,Active
+C0471,Alpha Technologies 0471,Media & Entertainment,North,Delhi,New Delhi,68,SMB,Partner,2024-11-25,Active
+C0472,Nova Solutions 0472,Healthcare,South,Andhra Pradesh,Visakhapatnam,2902,Enterprise,Outbound Sales,2025-01-21,Active
+C0473,Vertex Industries 0473,Logistics,South,Andhra Pradesh,Visakhapatnam,28,SMB,Outbound Sales,2024-03-07,Active
+C0474,BluePeak Systems 0474,Professional Services,South,Telangana,Hyderabad,790,Mid-Market,Paid Search,2025-08-19,Active
+C0475,Green Labs 0475,Manufacturing,West,Maharashtra,Nashik,18,SMB,Referral,2026-04-07,Active
+C0476,Apex Technologies 0476,Technology,South,Karnataka,Bengaluru,2813,Enterprise,Partner,2025-02-11,Active
+C0477,Orbit Solutions 0477,Media & Entertainment,South,Tamil Nadu,Chennai,59,SMB,Outbound Sales,2024-01-12,Inactive
+C0478,Prime Industries 0478,Education,North,Haryana,Gurugram,45,SMB,Outbound Sales,2026-06-07,Active
+C0479,Summit Systems 0479,Financial Services,North,Punjab,Ludhiana,2553,Enterprise,Outbound Sales,2024-07-08,Active
+C0480,Bright Labs 0480,Telecommunications,North,Punjab,Ludhiana,60,SMB,Paid Search,2024-02-25,Active
+C0481,Alpha Technologies 0481,Education,West,Maharashtra,Pune,348,Mid-Market,Outbound Sales,2024-11-18,Inactive
+C0482,Nova Solutions 0482,Telecommunications,North,Uttar Pradesh,Noida,705,Mid-Market,Organic,2025-03-04,Active
+C0483,Vertex Industries 0483,Financial Services,South,Karnataka,Bengaluru,91,SMB,Partner,2024-03-06,Active
+C0484,BluePeak Systems 0484,Logistics,South,Telangana,Hyderabad,594,Mid-Market,Organic,2024-04-23,Active
+C0485,Green Labs 0485,Education,North,Punjab,Ludhiana,62,SMB,Referral,2025-06-21,Active
+C0486,Apex Technologies 0486,Education,North,Uttar Pradesh,Noida,1704,Enterprise,Referral,2025-07-16,Active
+C0487,Orbit Solutions 0487,Technology,South,Kerala,Thiruvananthapuram,85,SMB,Paid Search,2025-03-14,Active
+C0488,Prime Industries 0488,Financial Services,North,Punjab,Amritsar,58,SMB,Outbound Sales,2024-02-06,Active
+C0489,Summit Systems 0489,Education,North,Uttar Pradesh,Lucknow,1293,Enterprise,Paid Search,2026-04-24,Active
+C0490,Bright Labs 0490,Professional Services,South,Telangana,Hyderabad,518,Mid-Market,Paid Search,2025-03-19,Inactive
+C0491,Alpha Technologies 0491,Logistics,South,Andhra Pradesh,Vijayawada,94,SMB,Referral,2025-05-03,Active
+C0492,Nova Solutions 0492,Financial Services,South,Kerala,Kochi,451,Mid-Market,Referral,2024-06-06,Active
+C0493,Vertex Industries 0493,Financial Services,West,Maharashtra,Mumbai,66,SMB,Referral,2025-09-06,Active
+C0494,BluePeak Systems 0494,Education,South,Kerala,Thiruvananthapuram,16,SMB,Organic,2024-02-19,Active
+C0495,Green Labs 0495,Professional Services,South,Andhra Pradesh,Visakhapatnam,66,SMB,Partner,2026-03-09,Active
+C0496,Apex Technologies 0496,Manufacturing,West,Maharashtra,Mumbai,96,SMB,Partner,2025-10-21,Active
+C0497,Orbit Solutions 0497,Telecommunications,South,Telangana,Hyderabad,50,SMB,Partner,2025-06-20,Active
+C0498,Prime Industries 0498,Professional Services,West,Maharashtra,Mumbai,47,SMB,Paid Search,2024-03-15,Active
+C0499,Summit Systems 0499,Technology,South,Andhra Pradesh,Visakhapatnam,2248,Enterprise,Referral,2025-10-25,Active
+C0500,Bright Labs 0500,Technology,South,Andhra Pradesh,Visakhapatnam,3749,Enterprise,Outbound Sales,2024-01-01,Active
+C0501,Alpha Technologies 0501,Healthcare,East,Bihar,Patna,581,Mid-Market,Paid Search,2024-12-10,Active
+C0502,Nova Solutions 0502,Technology,North,Delhi,New Delhi,25,SMB,Paid Search,2024-06-30,Active
+C0503,Vertex Industries 0503,Financial Services,South,Tamil Nadu,Coimbatore,89,SMB,Organic,2026-01-17,Active
+C0504,BluePeak Systems 0504,Telecommunications,South,Andhra Pradesh,Visakhapatnam,745,Mid-Market,Referral,2024-01-21,Active
+C0505,Green Labs 0505,Professional Services,South,Karnataka,Mysuru,641,Mid-Market,Paid Search,2026-01-25,Active
+C0506,Apex Technologies 0506,Telecommunications,West,Maharashtra,Nashik,24,SMB,Paid Search,2025-05-30,Active
+C0507,Orbit Solutions 0507,Telecommunications,South,Karnataka,Mysuru,4280,Enterprise,Partner,2024-09-28,Active
+C0508,Prime Industries 0508,Financial Services,East,Bihar,Patna,360,Mid-Market,Partner,2026-02-26,Active
+C0509,Summit Systems 0509,Telecommunications,North,Uttar Pradesh,Lucknow,4692,Enterprise,Partner,2024-11-25,Active
+C0510,Bright Labs 0510,Manufacturing,East,Jharkhand,Ranchi,290,Mid-Market,Outbound Sales,2024-12-31,Active
+C0511,Alpha Technologies 0511,Manufacturing,South,Andhra Pradesh,Visakhapatnam,397,Mid-Market,Outbound Sales,2024-06-12,Active
+C0512,Nova Solutions 0512,Logistics,South,Tamil Nadu,Madurai,11,SMB,Outbound Sales,2026-01-27,Active
+C0513,Vertex Industries 0513,Media & Entertainment,West,Goa,Panaji,4924,Enterprise,Event,2024-05-30,Active
+C0514,BluePeak Systems 0514,Logistics,North,Punjab,Ludhiana,188,Mid-Market,Organic,2026-03-09,Inactive
+C0515,Green Labs 0515,Media & Entertainment,South,Karnataka,Bengaluru,22,SMB,Organic,2025-09-25,Active
+C0516,Apex Technologies 0516,Manufacturing,North,Punjab,Amritsar,91,SMB,Organic,2025-08-09,Active
+C0517,Orbit Solutions 0517,Professional Services,South,Kerala,Thiruvananthapuram,92,SMB,Partner,2026-06-12,Active
+C0518,Prime Industries 0518,Technology,North,Punjab,Ludhiana,591,Mid-Market,Outbound Sales,2025-06-30,Active
+C0519,Summit Systems 0519,Education,North,Uttar Pradesh,Noida,4613,Enterprise,Referral,2025-04-11,Active
+C0520,Bright Labs 0520,Technology,South,Karnataka,Mysuru,89,SMB,Event,2025-05-14,Active
+C0521,Alpha Technologies 0521,Telecommunications,South,Andhra Pradesh,Visakhapatnam,36,SMB,Organic,2025-06-05,Active
+C0522,Nova Solutions 0522,Telecommunications,East,Odisha,Bhubaneswar,96,SMB,Event,2024-05-13,Active
+C0523,Vertex Industries 0523,Healthcare,South,Kerala,Thiruvananthapuram,4454,Enterprise,Referral,2024-04-24,Active
+C0524,BluePeak Systems 0524,Professional Services,South,Andhra Pradesh,Vijayawada,701,Mid-Market,Organic,2025-11-18,Active
+C0525,Green Labs 0525,Education,South,Kerala,Thiruvananthapuram,278,Mid-Market,Paid Search,2026-02-26,Active
+C0526,Apex Technologies 0526,Professional Services,East,West Bengal,Kolkata,10,SMB,Referral,2025-10-30,Active
+C0527,Orbit Solutions 0527,Logistics,West,Goa,Panaji,12,SMB,Referral,2026-01-27,Active
+C0528,Prime Industries 0528,Media & Entertainment,North,Punjab,Amritsar,80,SMB,Referral,2024-06-20,Active
+C0529,Summit Systems 0529,Healthcare,West,Gujarat,Ahmedabad,46,SMB,Outbound Sales,2025-11-29,Active
+C0530,Bright Labs 0530,Healthcare,North,Uttar Pradesh,Lucknow,102,Mid-Market,Partner,2025-01-06,Active
+C0531,Alpha Technologies 0531,Technology,North,Punjab,Amritsar,352,Mid-Market,Referral,2024-11-12,Active
+C0532,Nova Solutions 0532,Financial Services,South,Telangana,Hyderabad,3710,Enterprise,Partner,2026-04-29,Active
+C0533,Vertex Industries 0533,Healthcare,South,Kerala,Kochi,1561,Enterprise,Outbound Sales,2026-03-14,Active
+C0534,BluePeak Systems 0534,Retail,West,Maharashtra,Mumbai,97,SMB,Referral,2025-05-02,Active
+C0535,Green Labs 0535,Telecommunications,West,Maharashtra,Pune,545,Mid-Market,Paid Search,2024-03-19,Active
+C0536,Apex Technologies 0536,Telecommunications,South,Karnataka,Mysuru,2990,Enterprise,Organic,2025-04-21,Active
+C0537,Orbit Solutions 0537,Telecommunications,South,Kerala,Thiruvananthapuram,485,Mid-Market,Organic,2024-07-27,Active
+C0538,Prime Industries 0538,Manufacturing,West,Maharashtra,Mumbai,70,SMB,Outbound Sales,2026-01-26,Active
+C0539,Summit Systems 0539,Logistics,North,Haryana,Faridabad,52,SMB,Organic,2024-09-29,Active
+C0540,Bright Labs 0540,Technology,North,Delhi,New Delhi,48,SMB,Partner,2025-04-26,Active
+C0541,Alpha Technologies 0541,Healthcare,East,West Bengal,Kolkata,4140,Enterprise,Outbound Sales,2025-10-21,Active
+C0542,Nova Solutions 0542,Retail,South,Tamil Nadu,Chennai,525,Mid-Market,Organic,2025-11-27,Active
+C0543,Vertex Industries 0543,Technology,West,Gujarat,Surat,43,SMB,Partner,2025-03-14,Active
+C0544,BluePeak Systems 0544,Retail,North,Delhi,New Delhi,994,Mid-Market,Referral,2024-04-06,Active
+C0545,Green Labs 0545,Media & Entertainment,West,Gujarat,Ahmedabad,782,Mid-Market,Event,2024-02-28,Active
+C0546,Apex Technologies 0546,Financial Services,South,Telangana,Hyderabad,69,SMB,Paid Search,2025-08-04,Active
+C0547,Orbit Solutions 0547,Financial Services,South,Karnataka,Mysuru,65,SMB,Outbound Sales,2025-09-16,Active
+C0548,Prime Industries 0548,Technology,West,Maharashtra,Mumbai,270,Mid-Market,Partner,2024-10-21,Active
+C0549,Summit Systems 0549,Financial Services,East,Bihar,Patna,63,SMB,Organic,2025-05-13,Active
+C0550,Bright Labs 0550,Logistics,West,Goa,Panaji,170,Mid-Market,Partner,2024-09-04,Active
+C0551,Alpha Technologies 0551,Retail,North,Haryana,Faridabad,74,SMB,Event,2024-03-08,Inactive
+C0552,Nova Solutions 0552,Media & Entertainment,East,West Bengal,Kolkata,573,Mid-Market,Partner,2026-04-25,Active
+C0553,Vertex Industries 0553,Technology,South,Kerala,Thiruvananthapuram,29,SMB,Outbound Sales,2025-02-14,Active
+C0554,BluePeak Systems 0554,Healthcare,East,West Bengal,Kolkata,33,SMB,Outbound Sales,2025-01-18,Active
+C0555,Green Labs 0555,Education,West,Maharashtra,Nashik,927,Mid-Market,Referral,2025-09-02,Active
+C0556,Apex Technologies 0556,Financial Services,East,Odisha,Bhubaneswar,38,SMB,Organic,2025-05-13,Active
+C0557,Orbit Solutions 0557,Education,North,Haryana,Faridabad,27,SMB,Partner,2026-01-28,Inactive
+C0558,Prime Industries 0558,Logistics,South,Tamil Nadu,Madurai,65,SMB,Paid Search,2024-10-04,Active
+C0559,Summit Systems 0559,Technology,South,Telangana,Hyderabad,581,Mid-Market,Outbound Sales,2026-03-13,Active
+C0560,Bright Labs 0560,Manufacturing,North,Delhi,New Delhi,809,Mid-Market,Event,2024-11-16,Inactive
+C0561,Alpha Technologies 0561,Media & Entertainment,East,Jharkhand,Ranchi,990,Mid-Market,Referral,2024-03-01,Active
+C0562,Nova Solutions 0562,Logistics,West,Maharashtra,Pune,73,SMB,Referral,2024-06-19,Active
+C0563,Vertex Industries 0563,Retail,East,West Bengal,Kolkata,80,SMB,Outbound Sales,2024-04-17,Active
+C0564,BluePeak Systems 0564,Technology,North,Uttar Pradesh,Noida,28,SMB,Referral,2024-01-02,Active
+C0565,Green Labs 0565,Education,West,Gujarat,Surat,41,SMB,Outbound Sales,2026-05-22,Active
+C0566,Apex Technologies 0566,Logistics,South,Karnataka,Mysuru,92,SMB,Paid Search,2024-02-14,Active
+C0567,Orbit Solutions 0567,Retail,South,Telangana,Hyderabad,36,SMB,Partner,2026-03-04,Active
+C0568,Prime Industries 0568,Media & Entertainment,South,Kerala,Kochi,78,SMB,Organic,2026-04-08,Active
+C0569,Summit Systems 0569,Financial Services,South,Andhra Pradesh,Vijayawada,4618,Enterprise,Partner,2024-03-19,Active
+C0570,Bright Labs 0570,Financial Services,West,Maharashtra,Nashik,80,SMB,Paid Search,2025-05-29,Active
+C0571,Alpha Technologies 0571,Education,East,West Bengal,Kolkata,10,SMB,Partner,2025-07-26,Active
+C0572,Nova Solutions 0572,Technology,South,Karnataka,Mysuru,769,Mid-Market,Organic,2026-01-09,Active
+C0573,Vertex Industries 0573,Professional Services,West,Goa,Panaji,72,SMB,Outbound Sales,2025-11-12,Active
+C0574,BluePeak Systems 0574,Financial Services,West,Goa,Panaji,673,Mid-Market,Outbound Sales,2025-10-28,Active
+C0575,Green Labs 0575,Telecommunications,West,Goa,Panaji,391,Mid-Market,Organic,2024-04-23,Active
+C0576,Apex Technologies 0576,Manufacturing,North,Haryana,Faridabad,3494,Enterprise,Organic,2025-12-15,Active
+C0577,Orbit Solutions 0577,Professional Services,South,Andhra Pradesh,Vijayawada,50,SMB,Organic,2025-03-04,Active
+C0578,Prime Industries 0578,Professional Services,West,Maharashtra,Mumbai,4201,Enterprise,Partner,2024-12-17,Active
+C0579,Summit Systems 0579,Media & Entertainment,South,Tamil Nadu,Chennai,59,SMB,Partner,2025-01-02,Active
+C0580,Bright Labs 0580,Media & Entertainment,North,Delhi,New Delhi,27,SMB,Partner,2025-11-25,Active
+C0581,Alpha Technologies 0581,Technology,West,Gujarat,Surat,93,SMB,Referral,2024-04-10,Active
+C0582,Nova Solutions 0582,Retail,South,Tamil Nadu,Chennai,1734,Enterprise,Paid Search,2024-05-11,Inactive
+C0583,Vertex Industries 0583,Manufacturing,West,Goa,Panaji,18,SMB,Partner,2024-07-23,Active
+C0584,BluePeak Systems 0584,Media & Entertainment,East,Odisha,Bhubaneswar,61,SMB,Paid Search,2025-06-21,Active
+C0585,Green Labs 0585,Technology,South,Tamil Nadu,Coimbatore,579,Mid-Market,Event,2025-11-23,Active
+C0586,Apex Technologies 0586,Healthcare,East,West Bengal,Kolkata,42,SMB,Organic,2025-08-10,Active
+C0587,Orbit Solutions 0587,Retail,West,Goa,Panaji,35,SMB,Outbound Sales,2024-12-20,Inactive
+C0588,Prime Industries 0588,Professional Services,East,Bihar,Patna,55,SMB,Paid Search,2024-10-28,Active
+C0589,Summit Systems 0589,Media & Entertainment,North,Haryana,Gurugram,58,SMB,Paid Search,2025-06-20,Active
+C0590,Bright Labs 0590,Telecommunications,West,Goa,Panaji,15,SMB,Outbound Sales,2024-05-27,Active
+C0591,Alpha Technologies 0591,Telecommunications,South,Karnataka,Mysuru,87,SMB,Outbound Sales,2024-07-17,Active
+C0592,Nova Solutions 0592,Financial Services,West,Goa,Panaji,535,Mid-Market,Event,2024-03-08,Active
+C0593,Vertex Industries 0593,Professional Services,West,Gujarat,Ahmedabad,21,SMB,Organic,2025-12-30,Active
+C0594,BluePeak Systems 0594,Financial Services,North,Uttar Pradesh,Lucknow,30,SMB,Organic,2026-03-26,Active
+C0595,Green Labs 0595,Financial Services,South,Andhra Pradesh,Visakhapatnam,436,Mid-Market,Outbound Sales,2024-09-10,Active
+C0596,Apex Technologies 0596,Financial Services,South,Kerala,Thiruvananthapuram,12,SMB,Partner,2024-07-01,Active
+C0597,Orbit Solutions 0597,Education,East,Odisha,Bhubaneswar,883,Mid-Market,Referral,2024-12-04,Active
+C0598,Prime Industries 0598,Manufacturing,West,Gujarat,Surat,21,SMB,Organic,2024-06-28,Active
+C0599,Summit Systems 0599,Manufacturing,West,Goa,Panaji,57,SMB,Organic,2024-01-19,Active
+C0600,Bright Labs 0600,Media & Entertainment,South,Kerala,Kochi,20,SMB,Outbound Sales,2024-05-22,Active
+C0601,Alpha Technologies 0601,Education,North,Delhi,New Delhi,46,SMB,Organic,2024-01-09,Active
+C0602,Nova Solutions 0602,Professional Services,South,Andhra Pradesh,Vijayawada,30,SMB,Referral,2026-06-07,Active
+C0603,Vertex Industries 0603,Media & Entertainment,East,West Bengal,Kolkata,44,SMB,Referral,2025-09-22,Inactive
+C0604,BluePeak Systems 0604,Technology,East,Jharkhand,Ranchi,43,SMB,Referral,2024-06-17,Active
+C0605,Green Labs 0605,Financial Services,South,Kerala,Kochi,21,SMB,Organic,2026-05-20,Active
+C0606,Apex Technologies 0606,Technology,South,Tamil Nadu,Coimbatore,78,SMB,Paid Search,2024-01-19,Active
+C0607,Orbit Solutions 0607,Telecommunications,North,Haryana,Faridabad,60,SMB,Organic,2024-09-23,Active
+C0608,Prime Industries 0608,Retail,West,Gujarat,Ahmedabad,62,SMB,Outbound Sales,2026-01-09,Active
+C0609,Summit Systems 0609,Education,South,Telangana,Hyderabad,85,SMB,Referral,2024-09-09,Active
+C0610,Bright Labs 0610,Retail,North,Haryana,Gurugram,335,Mid-Market,Partner,2024-11-01,Active
+C0611,Alpha Technologies 0611,Education,East,Bihar,Patna,18,SMB,Outbound Sales,2024-05-08,Active
+C0612,Nova Solutions 0612,Media & Entertainment,South,Telangana,Hyderabad,185,Mid-Market,Partner,2025-07-09,Active
+C0613,Vertex Industries 0613,Professional Services,South,Kerala,Thiruvananthapuram,393,Mid-Market,Partner,2025-07-16,Active
+C0614,BluePeak Systems 0614,Professional Services,South,Andhra Pradesh,Visakhapatnam,48,SMB,Referral,2026-03-11,Active
+C0615,Green Labs 0615,Telecommunications,North,Uttar Pradesh,Lucknow,915,Mid-Market,Referral,2024-10-24,Active
+C0616,Apex Technologies 0616,Financial Services,North,Uttar Pradesh,Lucknow,4865,Enterprise,Partner,2024-01-25,Active
+C0617,Orbit Solutions 0617,Technology,West,Gujarat,Ahmedabad,40,SMB,Event,2025-07-29,Active
+C0618,Prime Industries 0618,Healthcare,North,Haryana,Gurugram,42,SMB,Partner,2024-08-16,Active
+C0619,Summit Systems 0619,Professional Services,East,West Bengal,Kolkata,857,Mid-Market,Partner,2025-02-05,Active
+C0620,Bright Labs 0620,Financial Services,West,Gujarat,Surat,408,Mid-Market,Outbound Sales,2024-12-08,Active
+C0621,Alpha Technologies 0621,Retail,East,Jharkhand,Ranchi,42,SMB,Paid Search,2025-06-08,Active
+C0622,Nova Solutions 0622,Technology,North,Haryana,Gurugram,28,SMB,Organic,2024-10-05,Active
+C0623,Vertex Industries 0623,Manufacturing,South,Karnataka,Bengaluru,17,SMB,Partner,2025-06-13,Active
+C0624,BluePeak Systems 0624,Media & Entertainment,South,Andhra Pradesh,Visakhapatnam,38,SMB,Event,2024-09-15,Active
+C0625,Green Labs 0625,Manufacturing,West,Gujarat,Ahmedabad,207,Mid-Market,Organic,2025-10-29,Active
+C0626,Apex Technologies 0626,Logistics,West,Gujarat,Ahmedabad,16,SMB,Outbound Sales,2024-10-08,Active
+C0627,Orbit Solutions 0627,Retail,West,Maharashtra,Nashik,22,SMB,Organic,2025-05-31,Active
+C0628,Prime Industries 0628,Logistics,West,Maharashtra,Pune,277,Mid-Market,Partner,2025-10-16,Active
+C0629,Summit Systems 0629,Education,North,Uttar Pradesh,Noida,24,SMB,Organic,2026-01-21,Active
+C0630,Bright Labs 0630,Manufacturing,West,Goa,Panaji,35,SMB,Paid Search,2025-02-24,Inactive
+C0631,Alpha Technologies 0631,Logistics,West,Maharashtra,Mumbai,318,Mid-Market,Outbound Sales,2025-05-01,Active
+C0632,Nova Solutions 0632,Manufacturing,East,Odisha,Bhubaneswar,288,Mid-Market,Referral,2024-09-11,Active
+C0633,Vertex Industries 0633,Technology,South,Telangana,Hyderabad,21,SMB,Partner,2025-08-24,Active
+C0634,BluePeak Systems 0634,Professional Services,South,Telangana,Hyderabad,78,SMB,Outbound Sales,2026-01-25,Active
+C0635,Green Labs 0635,Media & Entertainment,South,Karnataka,Mysuru,86,SMB,Event,2025-09-06,Inactive
+C0636,Apex Technologies 0636,Professional Services,South,Karnataka,Mysuru,77,SMB,Referral,2024-06-29,Active
+C0637,Orbit Solutions 0637,Education,West,Maharashtra,Nashik,83,SMB,Paid Search,2025-11-13,Active
+C0638,Prime Industries 0638,Education,South,Andhra Pradesh,Visakhapatnam,63,SMB,Organic,2024-11-02,Active
+C0639,Summit Systems 0639,Financial Services,East,Odisha,Bhubaneswar,89,SMB,Event,2026-03-14,Inactive
+C0640,Bright Labs 0640,Healthcare,North,Punjab,Ludhiana,70,SMB,Event,2024-11-04,Active
+C0641,Alpha Technologies 0641,Financial Services,West,Maharashtra,Nashik,87,SMB,Partner,2026-02-10,Active
+C0642,Nova Solutions 0642,Media & Entertainment,North,Haryana,Faridabad,85,SMB,Outbound Sales,2025-09-19,Active
+C0643,Vertex Industries 0643,Logistics,South,Karnataka,Bengaluru,97,SMB,Partner,2025-11-16,Active
+C0644,BluePeak Systems 0644,Logistics,South,Telangana,Hyderabad,58,SMB,Partner,2024-02-28,Active
+C0645,Green Labs 0645,Healthcare,South,Tamil Nadu,Madurai,40,SMB,Organic,2025-01-01,Inactive
+C0646,Apex Technologies 0646,Telecommunications,West,Goa,Panaji,827,Mid-Market,Outbound Sales,2025-11-19,Active
+C0647,Orbit Solutions 0647,Retail,North,Punjab,Ludhiana,77,SMB,Organic,2025-04-08,Active
+C0648,Prime Industries 0648,Logistics,North,Delhi,New Delhi,953,Mid-Market,Outbound Sales,2024-04-23,Active
+C0649,Summit Systems 0649,Media & Entertainment,West,Goa,Panaji,568,Mid-Market,Outbound Sales,2026-04-03,Active
+C0650,Bright Labs 0650,Manufacturing,North,Delhi,New Delhi,93,SMB,Outbound Sales,2024-07-25,Active
+C0651,Alpha Technologies 0651,Financial Services,West,Maharashtra,Pune,46,SMB,Organic,2024-11-28,Active
+C0652,Nova Solutions 0652,Logistics,South,Telangana,Hyderabad,93,SMB,Referral,2026-03-30,Inactive
+C0653,Vertex Industries 0653,Media & Entertainment,South,Andhra Pradesh,Vijayawada,43,SMB,Referral,2025-12-06,Active
+C0654,BluePeak Systems 0654,Media & Entertainment,West,Maharashtra,Mumbai,330,Mid-Market,Referral,2025-03-28,Active
+C0655,Green Labs 0655,Technology,North,Uttar Pradesh,Lucknow,60,SMB,Organic,2025-02-08,Active
+C0656,Apex Technologies 0656,Manufacturing,South,Andhra Pradesh,Vijayawada,94,SMB,Event,2024-02-18,Active
+C0657,Orbit Solutions 0657,Healthcare,South,Telangana,Hyderabad,70,SMB,Partner,2024-10-22,Active
+C0658,Prime Industries 0658,Technology,North,Delhi,New Delhi,22,SMB,Referral,2026-04-25,Active
+C0659,Summit Systems 0659,Technology,East,Jharkhand,Ranchi,365,Mid-Market,Paid Search,2024-04-04,Active
+C0660,Bright Labs 0660,Retail,North,Punjab,Ludhiana,89,SMB,Paid Search,2026-04-03,Active
+C0661,Alpha Technologies 0661,Financial Services,West,Gujarat,Ahmedabad,37,SMB,Partner,2025-05-31,Active
+C0662,Nova Solutions 0662,Healthcare,South,Tamil Nadu,Chennai,1018,Enterprise,Paid Search,2025-01-18,Active
+C0663,Vertex Industries 0663,Education,North,Punjab,Ludhiana,651,Mid-Market,Event,2024-11-18,Active
+C0664,BluePeak Systems 0664,Manufacturing,South,Telangana,Hyderabad,61,SMB,Paid Search,2025-11-14,Active
+C0665,Green Labs 0665,Technology,West,Goa,Panaji,79,SMB,Event,2025-01-05,Active
+C0666,Apex Technologies 0666,Logistics,East,West Bengal,Kolkata,75,SMB,Outbound Sales,2024-10-01,Inactive
+C0667,Orbit Solutions 0667,Financial Services,West,Gujarat,Surat,68,SMB,Organic,2026-02-26,Active
+C0668,Prime Industries 0668,Manufacturing,West,Goa,Panaji,26,SMB,Event,2026-04-16,Inactive
+C0669,Summit Systems 0669,Retail,East,Bihar,Patna,90,SMB,Organic,2025-07-04,Active
+C0670,Bright Labs 0670,Telecommunications,East,West Bengal,Kolkata,39,SMB,Outbound Sales,2024-07-22,Active
+C0671,Alpha Technologies 0671,Financial Services,South,Andhra Pradesh,Vijayawada,51,SMB,Paid Search,2024-02-26,Active
+C0672,Nova Solutions 0672,Telecommunications,South,Kerala,Kochi,378,Mid-Market,Outbound Sales,2024-07-27,Active
+C0673,Vertex Industries 0673,Retail,North,Uttar Pradesh,Lucknow,44,SMB,Outbound Sales,2025-12-26,Active
+C0674,BluePeak Systems 0674,Logistics,South,Tamil Nadu,Chennai,10,SMB,Outbound Sales,2025-06-05,Active
+C0675,Green Labs 0675,Logistics,West,Gujarat,Surat,55,SMB,Outbound Sales,2024-01-27,Active
+C0676,Apex Technologies 0676,Financial Services,East,Odisha,Bhubaneswar,3475,Enterprise,Referral,2025-08-06,Active
+C0677,Orbit Solutions 0677,Telecommunications,South,Karnataka,Mysuru,47,SMB,Organic,2025-05-25,Active
+C0678,Prime Industries 0678,Retail,South,Kerala,Kochi,91,SMB,Paid Search,2025-01-23,Active
+C0679,Summit Systems 0679,Education,North,Uttar Pradesh,Noida,4483,Enterprise,Organic,2024-07-22,Active
+C0680,Bright Labs 0680,Professional Services,South,Telangana,Hyderabad,992,Mid-Market,Outbound Sales,2025-11-08,Active
+C0681,Alpha Technologies 0681,Financial Services,South,Tamil Nadu,Madurai,239,Mid-Market,Referral,2025-09-09,Active
+C0682,Nova Solutions 0682,Media & Entertainment,South,Telangana,Hyderabad,21,SMB,Event,2026-05-20,Active
+C0683,Vertex Industries 0683,Healthcare,West,Gujarat,Ahmedabad,77,SMB,Partner,2024-11-22,Active
+C0684,BluePeak Systems 0684,Education,West,Goa,Panaji,218,Mid-Market,Outbound Sales,2025-11-04,Active
+C0685,Green Labs 0685,Education,East,Bihar,Patna,4965,Enterprise,Organic,2025-02-21,Active
+C0686,Apex Technologies 0686,Media & Entertainment,North,Haryana,Faridabad,76,SMB,Outbound Sales,2025-05-29,Active
+C0687,Orbit Solutions 0687,Professional Services,South,Andhra Pradesh,Vijayawada,57,SMB,Event,2025-10-18,Active
+C0688,Prime Industries 0688,Healthcare,East,Odisha,Bhubaneswar,97,SMB,Paid Search,2025-06-12,Active
+C0689,Summit Systems 0689,Professional Services,West,Gujarat,Ahmedabad,830,Mid-Market,Partner,2025-12-17,Active
+C0690,Bright Labs 0690,Telecommunications,East,Jharkhand,Ranchi,68,SMB,Outbound Sales,2025-04-27,Active
+C0691,Alpha Technologies 0691,Retail,South,Kerala,Kochi,65,SMB,Organic,2025-09-11,Active
+C0692,Nova Solutions 0692,Professional Services,North,Delhi,New Delhi,36,SMB,Paid Search,2024-09-18,Active
+C0693,Vertex Industries 0693,Financial Services,South,Tamil Nadu,Chennai,11,SMB,Paid Search,2026-01-30,Active
+C0694,BluePeak Systems 0694,Logistics,South,Kerala,Kochi,99,SMB,Organic,2025-06-17,Active
+C0695,Green Labs 0695,Retail,East,Jharkhand,Ranchi,67,SMB,Referral,2025-01-30,Active
+C0696,Apex Technologies 0696,Professional Services,East,West Bengal,Kolkata,908,Mid-Market,Organic,2026-04-04,Active
+C0697,Orbit Solutions 0697,Healthcare,West,Maharashtra,Pune,89,SMB,Organic,2025-10-01,Active
+C0698,Prime Industries 0698,Media & Entertainment,South,Karnataka,Bengaluru,80,SMB,Organic,2024-04-26,Active
+C0699,Summit Systems 0699,Financial Services,North,Punjab,Amritsar,40,SMB,Event,2025-08-09,Active
+C0700,Bright Labs 0700,Financial Services,East,Bihar,Patna,41,SMB,Partner,2025-06-15,Active
+C0701,Alpha Technologies 0701,Education,West,Goa,Panaji,48,SMB,Event,2025-10-18,Active
+C0702,Nova Solutions 0702,Education,North,Punjab,Amritsar,79,SMB,Paid Search,2024-06-14,Active
+C0703,Vertex Industries 0703,Technology,West,Goa,Panaji,81,SMB,Referral,2025-11-07,Active
+C0704,BluePeak Systems 0704,Manufacturing,West,Goa,Panaji,14,SMB,Paid Search,2026-02-24,Active
+C0705,Green Labs 0705,Financial Services,East,Bihar,Patna,73,SMB,Paid Search,2025-10-11,Active
+C0706,Apex Technologies 0706,Telecommunications,South,Kerala,Thiruvananthapuram,4739,Enterprise,Organic,2025-05-28,Active
+C0707,Orbit Solutions 0707,Professional Services,South,Andhra Pradesh,Visakhapatnam,62,SMB,Partner,2026-01-12,Active
+C0708,Prime Industries 0708,Manufacturing,West,Gujarat,Surat,592,Mid-Market,Organic,2024-05-07,Active
+C0709,Summit Systems 0709,Healthcare,South,Andhra Pradesh,Visakhapatnam,62,SMB,Partner,2024-08-11,Active
+C0710,Bright Labs 0710,Logistics,North,Delhi,New Delhi,281,Mid-Market,Partner,2025-09-28,Active
+C0711,Alpha Technologies 0711,Technology,East,Bihar,Patna,163,Mid-Market,Organic,2024-01-29,Active
+C0712,Nova Solutions 0712,Education,East,Bihar,Patna,36,SMB,Organic,2024-01-21,Active
+C0713,Vertex Industries 0713,Technology,East,Bihar,Patna,45,SMB,Outbound Sales,2024-04-20,Active
+C0714,BluePeak Systems 0714,Telecommunications,West,Goa,Panaji,40,SMB,Paid Search,2025-02-15,Inactive
+C0715,Green Labs 0715,Media & Entertainment,North,Uttar Pradesh,Noida,72,SMB,Organic,2024-02-20,Active
+C0716,Apex Technologies 0716,Media & Entertainment,South,Karnataka,Mysuru,2211,Enterprise,Event,2024-08-17,Active
+C0717,Orbit Solutions 0717,Education,South,Telangana,Hyderabad,601,Mid-Market,Organic,2024-03-25,Active
+C0718,Prime Industries 0718,Manufacturing,East,Bihar,Patna,1969,Enterprise,Outbound Sales,2025-01-23,Active
+C0719,Summit Systems 0719,Technology,North,Haryana,Gurugram,35,SMB,Event,2025-08-06,Active
+C0720,Bright Labs 0720,Logistics,South,Kerala,Thiruvananthapuram,146,Mid-Market,Referral,2026-05-12,Inactive
+C0721,Alpha Technologies 0721,Education,West,Gujarat,Surat,3202,Enterprise,Organic,2025-11-08,Active
+C0722,Nova Solutions 0722,Education,North,Punjab,Amritsar,17,SMB,Organic,2025-08-31,Active
+C0723,Vertex Industries 0723,Retail,South,Kerala,Thiruvananthapuram,72,SMB,Referral,2026-05-02,Active
+C0724,BluePeak Systems 0724,Telecommunications,West,Gujarat,Ahmedabad,597,Mid-Market,Organic,2024-09-05,Active
+C0725,Green Labs 0725,Retail,South,Karnataka,Mysuru,38,SMB,Outbound Sales,2025-05-16,Active
+C0726,Apex Technologies 0726,Education,South,Andhra Pradesh,Vijayawada,938,Mid-Market,Organic,2025-02-10,Active
+C0727,Orbit Solutions 0727,Professional Services,South,Andhra Pradesh,Visakhapatnam,82,SMB,Paid Search,2024-09-05,Active
+C0728,Prime Industries 0728,Manufacturing,East,West Bengal,Kolkata,916,Mid-Market,Event,2024-08-07,Active
+C0729,Summit Systems 0729,Financial Services,East,Odisha,Bhubaneswar,45,SMB,Outbound Sales,2026-05-22,Active
+C0730,Bright Labs 0730,Media & Entertainment,North,Delhi,New Delhi,36,SMB,Partner,2024-05-08,Active
+C0731,Alpha Technologies 0731,Manufacturing,South,Andhra Pradesh,Visakhapatnam,15,SMB,Referral,2025-09-28,Active
+C0732,Nova Solutions 0732,Manufacturing,North,Haryana,Faridabad,698,Mid-Market,Partner,2024-01-02,Active
+C0733,Vertex Industries 0733,Retail,West,Maharashtra,Mumbai,308,Mid-Market,Partner,2026-02-01,Inactive
+C0734,BluePeak Systems 0734,Professional Services,East,West Bengal,Kolkata,12,SMB,Paid Search,2024-02-15,Active
+C0735,Green Labs 0735,Media & Entertainment,South,Telangana,Hyderabad,54,SMB,Organic,2026-04-24,Active
+C0736,Apex Technologies 0736,Education,North,Uttar Pradesh,Lucknow,115,Mid-Market,Outbound Sales,2025-07-24,Active
+C0737,Orbit Solutions 0737,Healthcare,East,Bihar,Patna,20,SMB,Paid Search,2025-12-05,Active
+C0738,Prime Industries 0738,Financial Services,East,West Bengal,Kolkata,582,Mid-Market,Organic,2025-01-31,Inactive
+C0739,Summit Systems 0739,Logistics,East,West Bengal,Kolkata,59,SMB,Referral,2024-08-02,Active
+C0740,Bright Labs 0740,Financial Services,East,Bihar,Patna,58,SMB,Paid Search,2025-06-21,Active
+C0741,Alpha Technologies 0741,Manufacturing,East,Bihar,Patna,41,SMB,Outbound Sales,2025-10-05,Active
+C0742,Nova Solutions 0742,Healthcare,East,Jharkhand,Ranchi,86,SMB,Outbound Sales,2024-01-01,Active
+C0743,Vertex Industries 0743,Healthcare,South,Telangana,Hyderabad,538,Mid-Market,Outbound Sales,2025-12-29,Active
+C0744,BluePeak Systems 0744,Retail,North,Uttar Pradesh,Noida,31,SMB,Organic,2025-12-28,Active
+C0745,Green Labs 0745,Financial Services,North,Uttar Pradesh,Lucknow,77,SMB,Paid Search,2024-10-18,Active
+C0746,Apex Technologies 0746,Logistics,South,Tamil Nadu,Coimbatore,633,Mid-Market,Paid Search,2024-03-06,Active
+C0747,Orbit Solutions 0747,Healthcare,South,Andhra Pradesh,Vijayawada,99,SMB,Organic,2025-08-19,Active
+C0748,Prime Industries 0748,Technology,North,Haryana,Gurugram,11,SMB,Referral,2026-01-25,Active
+C0749,Summit Systems 0749,Financial Services,East,Bihar,Patna,2977,Enterprise,Outbound Sales,2025-05-09,Active
+C0750,Bright Labs 0750,Logistics,South,Kerala,Kochi,328,Mid-Market,Organic,2025-08-16,Active
+C0751,Alpha Technologies 0751,Media & Entertainment,South,Telangana,Hyderabad,14,SMB,Partner,2024-12-02,Active
+C0752,Nova Solutions 0752,Technology,East,West Bengal,Kolkata,1812,Enterprise,Organic,2024-12-27,Active
+C0753,Vertex Industries 0753,Financial Services,West,Gujarat,Ahmedabad,673,Mid-Market,Organic,2025-11-27,Active
+C0754,BluePeak Systems 0754,Retail,North,Punjab,Amritsar,51,SMB,Referral,2024-06-05,Active
+C0755,Green Labs 0755,Healthcare,West,Maharashtra,Mumbai,53,SMB,Event,2024-08-18,Active
+C0756,Apex Technologies 0756,Financial Services,West,Gujarat,Surat,419,Mid-Market,Outbound Sales,2024-04-11,Active
+C0757,Orbit Solutions 0757,Education,East,Jharkhand,Ranchi,669,Mid-Market,Event,2024-04-21,Inactive
+C0758,Prime Industries 0758,Manufacturing,South,Tamil Nadu,Chennai,17,SMB,Paid Search,2026-03-22,Active
+C0759,Summit Systems 0759,Healthcare,South,Andhra Pradesh,Visakhapatnam,333,Mid-Market,Organic,2024-02-01,Active
+C0760,Bright Labs 0760,Telecommunications,South,Telangana,Hyderabad,128,Mid-Market,Partner,2025-10-04,Active
+C0761,Alpha Technologies 0761,Logistics,South,Kerala,Thiruvananthapuram,77,SMB,Paid Search,2025-06-20,Active
+C0762,Nova Solutions 0762,Education,East,Bihar,Patna,96,SMB,Outbound Sales,2025-01-27,Active
+C0763,Vertex Industries 0763,Manufacturing,South,Telangana,Hyderabad,56,SMB,Organic,2024-05-09,Active
+C0764,BluePeak Systems 0764,Financial Services,West,Gujarat,Surat,923,Mid-Market,Paid Search,2025-11-13,Active
+C0765,Green Labs 0765,Healthcare,West,Goa,Panaji,79,SMB,Organic,2026-06-04,Active
+C0766,Apex Technologies 0766,Media & Entertainment,West,Gujarat,Surat,62,SMB,Referral,2024-07-16,Active
+C0767,Orbit Solutions 0767,Financial Services,East,Jharkhand,Ranchi,583,Mid-Market,Outbound Sales,2025-03-25,Active
+C0768,Prime Industries 0768,Financial Services,West,Maharashtra,Pune,655,Mid-Market,Paid Search,2024-10-04,Active
+C0769,Summit Systems 0769,Telecommunications,South,Andhra Pradesh,Vijayawada,39,SMB,Referral,2024-09-20,Active
+C0770,Bright Labs 0770,Professional Services,South,Tamil Nadu,Madurai,872,Mid-Market,Paid Search,2026-04-22,Active
+C0771,Alpha Technologies 0771,Financial Services,North,Punjab,Amritsar,35,SMB,Paid Search,2024-01-27,Active
+C0772,Nova Solutions 0772,Healthcare,South,Telangana,Hyderabad,268,Mid-Market,Outbound Sales,2026-03-11,Active
+C0773,Vertex Industries 0773,Manufacturing,South,Karnataka,Mysuru,21,SMB,Outbound Sales,2024-03-12,Active
+C0774,BluePeak Systems 0774,Logistics,North,Haryana,Gurugram,31,SMB,Event,2024-09-25,Active
+C0775,Green Labs 0775,Logistics,South,Karnataka,Mysuru,216,Mid-Market,Outbound Sales,2026-03-08,Active
+C0776,Apex Technologies 0776,Financial Services,West,Maharashtra,Mumbai,47,SMB,Referral,2026-06-16,Active
+C0777,Orbit Solutions 0777,Technology,West,Gujarat,Ahmedabad,50,SMB,Outbound Sales,2024-03-12,Active
+C0778,Prime Industries 0778,Media & Entertainment,West,Maharashtra,Pune,169,Mid-Market,Paid Search,2024-05-29,Active
+C0779,Summit Systems 0779,Logistics,West,Goa,Panaji,377,Mid-Market,Referral,2025-07-16,Active
+C0780,Bright Labs 0780,Logistics,South,Tamil Nadu,Chennai,824,Mid-Market,Outbound Sales,2024-08-20,Active
+C0781,Alpha Technologies 0781,Media & Entertainment,South,Telangana,Hyderabad,997,Mid-Market,Organic,2026-02-19,Active
+C0782,Nova Solutions 0782,Technology,West,Gujarat,Ahmedabad,68,SMB,Event,2026-04-17,Active
+C0783,Vertex Industries 0783,Healthcare,North,Haryana,Gurugram,82,SMB,Paid Search,2025-01-06,Inactive
+C0784,BluePeak Systems 0784,Financial Services,South,Telangana,Hyderabad,78,SMB,Partner,2024-05-08,Active
+C0785,Green Labs 0785,Professional Services,South,Tamil Nadu,Coimbatore,46,SMB,Partner,2024-06-21,Active
+C0786,Apex Technologies 0786,Healthcare,West,Goa,Panaji,2526,Enterprise,Outbound Sales,2026-04-05,Active
+C0787,Orbit Solutions 0787,Media & Entertainment,West,Goa,Panaji,69,SMB,Partner,2024-12-16,Active
+C0788,Prime Industries 0788,Healthcare,South,Kerala,Thiruvananthapuram,33,SMB,Partner,2024-08-02,Inactive
+C0789,Summit Systems 0789,Technology,West,Maharashtra,Nashik,87,SMB,Organic,2026-02-06,Active
+C0790,Bright Labs 0790,Telecommunications,South,Karnataka,Mysuru,2416,Enterprise,Paid Search,2026-03-16,Active
+C0791,Alpha Technologies 0791,Technology,South,Kerala,Thiruvananthapuram,79,SMB,Organic,2025-07-09,Active
+C0792,Nova Solutions 0792,Financial Services,East,Jharkhand,Ranchi,12,SMB,Outbound Sales,2024-03-16,Active
+C0793,Vertex Industries 0793,Technology,South,Andhra Pradesh,Visakhapatnam,94,SMB,Paid Search,2024-09-23,Active
+C0794,BluePeak Systems 0794,Logistics,South,Tamil Nadu,Madurai,705,Mid-Market,Outbound Sales,2024-06-22,Active
+C0795,Green Labs 0795,Media & Entertainment,South,Tamil Nadu,Madurai,11,SMB,Organic,2026-05-20,Active
+C0796,Apex Technologies 0796,Education,South,Andhra Pradesh,Visakhapatnam,960,Mid-Market,Organic,2024-01-20,Active
+C0797,Orbit Solutions 0797,Education,North,Delhi,New Delhi,4457,Enterprise,Outbound Sales,2025-09-24,Active
+C0798,Prime Industries 0798,Healthcare,South,Kerala,Kochi,10,SMB,Organic,2026-03-29,Active
+C0799,Summit Systems 0799,Manufacturing,West,Maharashtra,Mumbai,470,Mid-Market,Organic,2024-10-17,Active
+C0800,Bright Labs 0800,Healthcare,West,Goa,Panaji,2228,Enterprise,Organic,2025-11-27,Active
+C0801,Alpha Technologies 0801,Technology,West,Goa,Panaji,168,Mid-Market,Event,2025-04-16,Active
+C0802,Nova Solutions 0802,Media & Entertainment,South,Karnataka,Mysuru,25,SMB,Outbound Sales,2025-05-12,Active
+C0803,Vertex Industries 0803,Telecommunications,East,Odisha,Bhubaneswar,97,SMB,Referral,2026-05-29,Active
+C0804,BluePeak Systems 0804,Retail,South,Karnataka,Bengaluru,799,Mid-Market,Referral,2025-05-21,Active
+C0805,Green Labs 0805,Financial Services,South,Andhra Pradesh,Vijayawada,89,SMB,Referral,2024-06-17,Active
+C0806,Apex Technologies 0806,Healthcare,South,Telangana,Hyderabad,189,Mid-Market,Outbound Sales,2025-03-28,Active
+C0807,Orbit Solutions 0807,Technology,South,Karnataka,Bengaluru,4734,Enterprise,Partner,2026-01-26,Active
+C0808,Prime Industries 0808,Media & Entertainment,South,Andhra Pradesh,Visakhapatnam,4350,Enterprise,Organic,2024-02-26,Active
+C0809,Summit Systems 0809,Financial Services,West,Gujarat,Ahmedabad,62,SMB,Organic,2024-12-24,Active
+C0810,Bright Labs 0810,Education,West,Gujarat,Ahmedabad,27,SMB,Organic,2024-03-13,Active
+C0811,Alpha Technologies 0811,Retail,West,Goa,Panaji,1325,Enterprise,Partner,2025-09-23,Active
+C0812,Nova Solutions 0812,Media & Entertainment,West,Gujarat,Surat,443,Mid-Market,Outbound Sales,2026-05-02,Active
+C0813,Vertex Industries 0813,Professional Services,South,Tamil Nadu,Madurai,25,SMB,Referral,2026-01-08,Active
+C0814,BluePeak Systems 0814,Technology,South,Kerala,Kochi,3068,Enterprise,Organic,2025-11-20,Active
+C0815,Green Labs 0815,Manufacturing,South,Kerala,Thiruvananthapuram,764,Mid-Market,Organic,2024-03-06,Active
+C0816,Apex Technologies 0816,Technology,South,Kerala,Thiruvananthapuram,79,SMB,Event,2024-04-12,Active
+C0817,Orbit Solutions 0817,Telecommunications,East,West Bengal,Kolkata,56,SMB,Referral,2025-04-07,Active
+C0818,Prime Industries 0818,Media & Entertainment,South,Karnataka,Bengaluru,97,SMB,Outbound Sales,2024-11-10,Active
+C0819,Summit Systems 0819,Education,South,Telangana,Hyderabad,67,SMB,Partner,2025-05-10,Active
+C0820,Bright Labs 0820,Media & Entertainment,North,Punjab,Amritsar,91,SMB,Paid Search,2026-05-27,Active
+C0821,Alpha Technologies 0821,Media & Entertainment,West,Goa,Panaji,419,Mid-Market,Organic,2026-04-19,Active
+C0822,Nova Solutions 0822,Logistics,West,Gujarat,Ahmedabad,72,SMB,Organic,2026-02-17,Active
+C0823,Vertex Industries 0823,Manufacturing,West,Goa,Panaji,28,SMB,Partner,2025-01-30,Active
+C0824,BluePeak Systems 0824,Retail,South,Andhra Pradesh,Vijayawada,35,SMB,Outbound Sales,2024-12-29,Active
+C0825,Green Labs 0825,Professional Services,West,Gujarat,Surat,32,SMB,Partner,2024-02-28,Active
+C0826,Apex Technologies 0826,Logistics,East,Jharkhand,Ranchi,2436,Enterprise,Partner,2024-05-18,Active
+C0827,Orbit Solutions 0827,Healthcare,South,Karnataka,Bengaluru,18,SMB,Organic,2025-04-27,Active
+C0828,Prime Industries 0828,Media & Entertainment,South,Telangana,Hyderabad,84,SMB,Event,2024-10-21,Active
+C0829,Summit Systems 0829,Financial Services,North,Punjab,Amritsar,185,Mid-Market,Outbound Sales,2024-05-28,Active
+C0830,Bright Labs 0830,Telecommunications,North,Delhi,New Delhi,13,SMB,Referral,2026-04-25,Active
+C0831,Alpha Technologies 0831,Healthcare,East,West Bengal,Kolkata,30,SMB,Event,2025-10-19,Active
+C0832,Nova Solutions 0832,Retail,South,Tamil Nadu,Madurai,15,SMB,Partner,2024-08-01,Active
+C0833,Vertex Industries 0833,Logistics,West,Gujarat,Surat,24,SMB,Partner,2025-02-10,Active
+C0834,BluePeak Systems 0834,Healthcare,South,Telangana,Hyderabad,39,SMB,Outbound Sales,2025-02-19,Active
+C0835,Green Labs 0835,Education,South,Kerala,Thiruvananthapuram,97,SMB,Outbound Sales,2024-08-16,Active
+C0836,Apex Technologies 0836,Technology,North,Punjab,Ludhiana,84,SMB,Partner,2024-08-01,Active
+C0837,Orbit Solutions 0837,Logistics,East,Jharkhand,Ranchi,2336,Enterprise,Organic,2024-12-28,Active
+C0838,Prime Industries 0838,Media & Entertainment,West,Gujarat,Ahmedabad,95,SMB,Referral,2026-01-15,Active
+C0839,Summit Systems 0839,Media & Entertainment,South,Karnataka,Mysuru,91,SMB,Event,2026-01-01,Active
+C0840,Bright Labs 0840,Manufacturing,East,West Bengal,Kolkata,555,Mid-Market,Referral,2026-06-18,Active
+C0841,Alpha Technologies 0841,Media & Entertainment,South,Karnataka,Mysuru,81,SMB,Referral,2024-04-12,Active
+C0842,Nova Solutions 0842,Logistics,South,Karnataka,Bengaluru,738,Mid-Market,Paid Search,2024-04-01,Active
+C0843,Vertex Industries 0843,Telecommunications,South,Andhra Pradesh,Vijayawada,13,SMB,Paid Search,2025-05-04,Active
+C0844,BluePeak Systems 0844,Media & Entertainment,West,Maharashtra,Nashik,1875,Enterprise,Partner,2026-01-04,Active
+C0845,Green Labs 0845,Logistics,North,Uttar Pradesh,Lucknow,20,SMB,Event,2026-05-21,Active
+C0846,Apex Technologies 0846,Telecommunications,North,Punjab,Amritsar,43,SMB,Referral,2026-05-23,Active
+C0847,Orbit Solutions 0847,Retail,North,Haryana,Gurugram,57,SMB,Organic,2024-06-21,Active
+C0848,Prime Industries 0848,Professional Services,South,Tamil Nadu,Madurai,4110,Enterprise,Organic,2024-04-28,Active
+C0849,Summit Systems 0849,Technology,South,Telangana,Hyderabad,28,SMB,Outbound Sales,2026-02-05,Active
+C0850,Bright Labs 0850,Telecommunications,East,Bihar,Patna,39,SMB,Partner,2024-01-22,Active
+C0851,Alpha Technologies 0851,Professional Services,West,Gujarat,Surat,63,SMB,Referral,2026-02-12,Active
+C0852,Nova Solutions 0852,Financial Services,East,Bihar,Patna,321,Mid-Market,Outbound Sales,2024-09-14,Active
+C0853,Vertex Industries 0853,Technology,West,Gujarat,Surat,64,SMB,Outbound Sales,2025-12-12,Active
+C0854,BluePeak Systems 0854,Technology,North,Uttar Pradesh,Noida,203,Mid-Market,Outbound Sales,2026-01-18,Active
+C0855,Green Labs 0855,Professional Services,North,Delhi,New Delhi,49,SMB,Event,2026-03-10,Active
+C0856,Apex Technologies 0856,Financial Services,East,Odisha,Bhubaneswar,18,SMB,Referral,2025-01-10,Active
+C0857,Orbit Solutions 0857,Healthcare,East,West Bengal,Kolkata,63,SMB,Outbound Sales,2025-08-18,Active
+C0858,Prime Industries 0858,Logistics,South,Karnataka,Mysuru,31,SMB,Paid Search,2025-10-12,Active
+C0859,Summit Systems 0859,Professional Services,West,Maharashtra,Pune,47,SMB,Outbound Sales,2024-05-15,Active
+C0860,Bright Labs 0860,Retail,South,Telangana,Hyderabad,26,SMB,Outbound Sales,2024-06-09,Active
+C0861,Alpha Technologies 0861,Manufacturing,North,Delhi,New Delhi,108,Mid-Market,Outbound Sales,2026-03-11,Active
+C0862,Nova Solutions 0862,Technology,South,Andhra Pradesh,Vijayawada,15,SMB,Partner,2026-01-29,Active
+C0863,Vertex Industries 0863,Technology,South,Karnataka,Bengaluru,76,SMB,Organic,2024-01-12,Active
+C0864,BluePeak Systems 0864,Logistics,South,Kerala,Thiruvananthapuram,45,SMB,Partner,2025-07-04,Active
+C0865,Green Labs 0865,Professional Services,South,Tamil Nadu,Coimbatore,13,SMB,Event,2024-09-09,Active
+C0866,Apex Technologies 0866,Retail,South,Telangana,Hyderabad,40,SMB,Event,2026-05-19,Active
+C0867,Orbit Solutions 0867,Logistics,North,Punjab,Amritsar,84,SMB,Organic,2025-03-15,Active
+C0868,Prime Industries 0868,Media & Entertainment,West,Goa,Panaji,64,SMB,Organic,2024-08-18,Active
+C0869,Summit Systems 0869,Telecommunications,West,Maharashtra,Pune,432,Mid-Market,Organic,2025-03-14,Active
+C0870,Bright Labs 0870,Professional Services,West,Maharashtra,Pune,3188,Enterprise,Outbound Sales,2025-02-18,Active
+C0871,Alpha Technologies 0871,Telecommunications,West,Gujarat,Surat,82,SMB,Outbound Sales,2024-01-23,Active
+C0872,Nova Solutions 0872,Education,South,Andhra Pradesh,Visakhapatnam,40,SMB,Organic,2026-01-10,Inactive
+C0873,Vertex Industries 0873,Logistics,West,Goa,Panaji,956,Mid-Market,Paid Search,2025-01-05,Active
+C0874,BluePeak Systems 0874,Logistics,North,Uttar Pradesh,Noida,71,SMB,Outbound Sales,2024-04-18,Active
+C0875,Green Labs 0875,Technology,West,Gujarat,Surat,90,SMB,Outbound Sales,2024-02-21,Active
+C0876,Apex Technologies 0876,Media & Entertainment,East,Jharkhand,Ranchi,36,SMB,Partner,2026-01-21,Active
+C0877,Orbit Solutions 0877,Technology,West,Goa,Panaji,353,Mid-Market,Partner,2025-04-21,Active
+C0878,Prime Industries 0878,Telecommunications,North,Uttar Pradesh,Lucknow,265,Mid-Market,Paid Search,2025-07-03,Active
+C0879,Summit Systems 0879,Telecommunications,North,Punjab,Amritsar,69,SMB,Referral,2024-11-27,Active
+C0880,Bright Labs 0880,Education,South,Telangana,Hyderabad,98,SMB,Partner,2024-04-12,Active
+C0881,Alpha Technologies 0881,Education,East,Bihar,Patna,44,SMB,Outbound Sales,2024-08-13,Active
+C0882,Nova Solutions 0882,Media & Entertainment,South,Andhra Pradesh,Vijayawada,755,Mid-Market,Outbound Sales,2025-01-26,Active
+C0883,Vertex Industries 0883,Education,South,Kerala,Thiruvananthapuram,65,SMB,Partner,2025-09-24,Active
+C0884,BluePeak Systems 0884,Education,West,Maharashtra,Nashik,18,SMB,Outbound Sales,2024-11-09,Active
+C0885,Green Labs 0885,Financial Services,South,Kerala,Thiruvananthapuram,790,Mid-Market,Organic,2024-11-29,Active
+C0886,Apex Technologies 0886,Financial Services,East,Odisha,Bhubaneswar,42,SMB,Paid Search,2026-03-09,Active
+C0887,Orbit Solutions 0887,Logistics,South,Karnataka,Bengaluru,417,Mid-Market,Organic,2024-01-23,Active
+C0888,Prime Industries 0888,Technology,South,Andhra Pradesh,Visakhapatnam,47,SMB,Referral,2024-07-30,Active
+C0889,Summit Systems 0889,Technology,East,Bihar,Patna,93,SMB,Outbound Sales,2025-05-26,Active
+C0890,Bright Labs 0890,Telecommunications,North,Punjab,Amritsar,19,SMB,Event,2024-09-23,Active
+C0891,Alpha Technologies 0891,Education,North,Haryana,Faridabad,456,Mid-Market,Organic,2025-10-18,Active
+C0892,Nova Solutions 0892,Healthcare,North,Uttar Pradesh,Noida,422,Mid-Market,Paid Search,2025-08-16,Active
+C0893,Vertex Industries 0893,Logistics,East,Jharkhand,Ranchi,299,Mid-Market,Outbound Sales,2024-08-27,Inactive
+C0894,BluePeak Systems 0894,Technology,South,Tamil Nadu,Chennai,19,SMB,Organic,2026-04-18,Active
+C0895,Green Labs 0895,Logistics,West,Maharashtra,Mumbai,727,Mid-Market,Partner,2025-06-19,Active
+C0896,Apex Technologies 0896,Professional Services,South,Tamil Nadu,Chennai,80,SMB,Outbound Sales,2024-08-12,Inactive
+C0897,Orbit Solutions 0897,Telecommunications,South,Telangana,Hyderabad,44,SMB,Partner,2025-03-22,Active
+C0898,Prime Industries 0898,Financial Services,South,Kerala,Thiruvananthapuram,328,Mid-Market,Organic,2024-12-09,Active
+C0899,Summit Systems 0899,Telecommunications,North,Punjab,Ludhiana,71,SMB,Referral,2025-06-26,Active
+C0900,Bright Labs 0900,Logistics,South,Telangana,Hyderabad,84,SMB,Outbound Sales,2024-01-29,Active
+C0901,Alpha Technologies 0901,Education,South,Tamil Nadu,Chennai,53,SMB,Partner,2025-09-27,Active
+C0902,Nova Solutions 0902,Education,South,Andhra Pradesh,Vijayawada,50,SMB,Organic,2025-05-24,Active
+C0903,Vertex Industries 0903,Logistics,South,Tamil Nadu,Madurai,92,SMB,Outbound Sales,2024-11-21,Active
+C0904,BluePeak Systems 0904,Logistics,North,Uttar Pradesh,Lucknow,79,SMB,Organic,2025-09-16,Active
+C0905,Green Labs 0905,Media & Entertainment,East,West Bengal,Kolkata,74,SMB,Outbound Sales,2025-09-18,Active
+C0906,Apex Technologies 0906,Retail,West,Maharashtra,Mumbai,432,Mid-Market,Organic,2026-05-18,Active
+C0907,Orbit Solutions 0907,Retail,South,Tamil Nadu,Coimbatore,898,Mid-Market,Event,2025-04-19,Active
+C0908,Prime Industries 0908,Financial Services,East,West Bengal,Kolkata,26,SMB,Referral,2025-08-20,Active
+C0909,Summit Systems 0909,Logistics,West,Maharashtra,Pune,30,SMB,Referral,2025-12-17,Active
+C0910,Bright Labs 0910,Professional Services,West,Goa,Panaji,48,SMB,Organic,2025-04-12,Active
+C0911,Alpha Technologies 0911,Professional Services,East,West Bengal,Kolkata,55,SMB,Referral,2024-05-23,Active
+C0912,Nova Solutions 0912,Healthcare,South,Telangana,Hyderabad,17,SMB,Outbound Sales,2024-12-09,Active
+C0913,Vertex Industries 0913,Education,East,Bihar,Patna,697,Mid-Market,Event,2025-09-27,Active
+C0914,BluePeak Systems 0914,Telecommunications,West,Goa,Panaji,22,SMB,Referral,2024-10-15,Active
+C0915,Green Labs 0915,Technology,West,Goa,Panaji,72,SMB,Paid Search,2025-01-03,Active
+C0916,Apex Technologies 0916,Telecommunications,West,Maharashtra,Mumbai,96,SMB,Outbound Sales,2026-05-01,Active
+C0917,Orbit Solutions 0917,Logistics,West,Gujarat,Surat,79,SMB,Outbound Sales,2024-12-21,Active
+C0918,Prime Industries 0918,Technology,East,Odisha,Bhubaneswar,3296,Enterprise,Partner,2026-01-18,Active
+C0919,Summit Systems 0919,Healthcare,South,Tamil Nadu,Chennai,224,Mid-Market,Paid Search,2024-03-19,Active
+C0920,Bright Labs 0920,Media & Entertainment,South,Andhra Pradesh,Vijayawada,74,SMB,Paid Search,2024-11-11,Inactive
+C0921,Alpha Technologies 0921,Retail,North,Punjab,Amritsar,269,Mid-Market,Outbound Sales,2025-07-04,Active
+C0922,Nova Solutions 0922,Professional Services,South,Tamil Nadu,Chennai,27,SMB,Organic,2025-02-28,Active
+C0923,Vertex Industries 0923,Financial Services,West,Goa,Panaji,922,Mid-Market,Partner,2024-09-09,Active
+C0924,BluePeak Systems 0924,Retail,North,Punjab,Ludhiana,514,Mid-Market,Referral,2024-07-16,Active
+C0925,Green Labs 0925,Financial Services,North,Haryana,Gurugram,66,SMB,Outbound Sales,2025-07-15,Active
+C0926,Apex Technologies 0926,Education,West,Maharashtra,Pune,93,SMB,Organic,2024-02-12,Active
+C0927,Orbit Solutions 0927,Healthcare,South,Andhra Pradesh,Visakhapatnam,74,SMB,Partner,2024-10-16,Active
+C0928,Prime Industries 0928,Retail,South,Telangana,Hyderabad,70,SMB,Paid Search,2025-04-15,Active
+C0929,Summit Systems 0929,Technology,South,Telangana,Hyderabad,181,Mid-Market,Partner,2025-10-02,Active
+C0930,Bright Labs 0930,Professional Services,West,Maharashtra,Nashik,33,SMB,Organic,2026-05-12,Active
+C0931,Alpha Technologies 0931,Technology,West,Gujarat,Surat,75,SMB,Partner,2024-12-01,Active
+C0932,Nova Solutions 0932,Media & Entertainment,South,Kerala,Kochi,910,Mid-Market,Partner,2025-06-24,Active
+C0933,Vertex Industries 0933,Media & Entertainment,West,Gujarat,Surat,2308,Enterprise,Partner,2025-01-21,Active
+C0934,BluePeak Systems 0934,Media & Entertainment,South,Karnataka,Mysuru,41,SMB,Partner,2026-03-10,Active
+C0935,Green Labs 0935,Logistics,North,Uttar Pradesh,Noida,11,SMB,Partner,2026-04-28,Active
+C0936,Apex Technologies 0936,Technology,South,Kerala,Kochi,31,SMB,Outbound Sales,2026-03-12,Active
+C0937,Orbit Solutions 0937,Retail,East,West Bengal,Kolkata,92,SMB,Referral,2024-12-21,Active
+C0938,Prime Industries 0938,Telecommunications,West,Gujarat,Surat,3763,Enterprise,Outbound Sales,2026-05-23,Active
+C0939,Summit Systems 0939,Healthcare,South,Andhra Pradesh,Vijayawada,10,SMB,Paid Search,2025-01-05,Active
+C0940,Bright Labs 0940,Professional Services,North,Delhi,New Delhi,90,SMB,Organic,2024-07-10,Active
+C0941,Alpha Technologies 0941,Financial Services,South,Tamil Nadu,Coimbatore,39,SMB,Organic,2024-08-26,Active
+C0942,Nova Solutions 0942,Telecommunications,South,Karnataka,Mysuru,13,SMB,Referral,2024-02-06,Active
+C0943,Vertex Industries 0943,Media & Entertainment,South,Andhra Pradesh,Visakhapatnam,955,Mid-Market,Outbound Sales,2025-12-06,Active
+C0944,BluePeak Systems 0944,Media & Entertainment,South,Telangana,Hyderabad,646,Mid-Market,Outbound Sales,2025-09-28,Active
+C0945,Green Labs 0945,Media & Entertainment,North,Uttar Pradesh,Noida,24,SMB,Outbound Sales,2025-03-16,Active
+C0946,Apex Technologies 0946,Telecommunications,West,Maharashtra,Nashik,80,SMB,Paid Search,2025-07-21,Active
+C0947,Orbit Solutions 0947,Technology,South,Karnataka,Bengaluru,18,SMB,Paid Search,2024-02-29,Active
+C0948,Prime Industries 0948,Media & Entertainment,South,Andhra Pradesh,Visakhapatnam,4041,Enterprise,Organic,2024-06-17,Active
+C0949,Summit Systems 0949,Retail,East,Jharkhand,Ranchi,856,Mid-Market,Referral,2026-04-26,Active
+C0950,Bright Labs 0950,Healthcare,South,Telangana,Hyderabad,77,SMB,Paid Search,2025-03-21,Active
+C0951,Alpha Technologies 0951,Media & Entertainment,South,Karnataka,Bengaluru,640,Mid-Market,Organic,2025-09-30,Inactive
+C0952,Nova Solutions 0952,Retail,South,Tamil Nadu,Madurai,376,Mid-Market,Referral,2024-03-05,Active
+C0953,Vertex Industries 0953,Technology,East,West Bengal,Kolkata,43,SMB,Partner,2025-01-14,Active
+C0954,BluePeak Systems 0954,Technology,West,Maharashtra,Pune,4765,Enterprise,Outbound Sales,2026-05-01,Active
+C0955,Green Labs 0955,Technology,North,Punjab,Ludhiana,37,SMB,Event,2026-01-04,Inactive
+C0956,Apex Technologies 0956,Healthcare,West,Maharashtra,Pune,20,SMB,Event,2026-03-06,Active
+C0957,Orbit Solutions 0957,Professional Services,West,Goa,Panaji,90,SMB,Partner,2025-05-09,Inactive
+C0958,Prime Industries 0958,Technology,South,Kerala,Thiruvananthapuram,78,SMB,Paid Search,2025-12-10,Active
+C0959,Summit Systems 0959,Retail,North,Uttar Pradesh,Noida,11,SMB,Partner,2024-10-19,Active
+C0960,Bright Labs 0960,Media & Entertainment,East,West Bengal,Kolkata,486,Mid-Market,Outbound Sales,2024-09-21,Active
+C0961,Alpha Technologies 0961,Financial Services,East,Odisha,Bhubaneswar,31,SMB,Organic,2026-04-17,Active
+C0962,Nova Solutions 0962,Manufacturing,West,Maharashtra,Mumbai,683,Mid-Market,Paid Search,2025-03-07,Active
+C0963,Vertex Industries 0963,Education,South,Karnataka,Mysuru,78,SMB,Outbound Sales,2024-04-23,Active
+C0964,BluePeak Systems 0964,Financial Services,West,Maharashtra,Nashik,29,SMB,Paid Search,2026-02-27,Active
+C0965,Green Labs 0965,Media & Entertainment,South,Karnataka,Mysuru,82,SMB,Partner,2026-05-27,Active
+C0966,Apex Technologies 0966,Logistics,South,Andhra Pradesh,Visakhapatnam,79,SMB,Partner,2026-04-25,Active
+C0967,Orbit Solutions 0967,Telecommunications,East,West Bengal,Kolkata,278,Mid-Market,Organic,2026-01-22,Active
+C0968,Prime Industries 0968,Telecommunications,East,Jharkhand,Ranchi,80,SMB,Referral,2025-10-27,Active
+C0969,Summit Systems 0969,Telecommunications,East,Odisha,Bhubaneswar,51,SMB,Referral,2025-11-11,Active
+C0970,Bright Labs 0970,Manufacturing,South,Tamil Nadu,Chennai,44,SMB,Organic,2025-11-11,Active
+C0971,Alpha Technologies 0971,Education,South,Karnataka,Mysuru,926,Mid-Market,Organic,2024-10-23,Active
+C0972,Nova Solutions 0972,Media & Entertainment,South,Karnataka,Mysuru,3468,Enterprise,Outbound Sales,2024-04-14,Active
+C0973,Vertex Industries 0973,Technology,South,Kerala,Thiruvananthapuram,237,Mid-Market,Referral,2026-04-22,Active
+C0974,BluePeak Systems 0974,Financial Services,South,Karnataka,Bengaluru,50,SMB,Paid Search,2024-10-11,Active
+C0975,Green Labs 0975,Financial Services,West,Goa,Panaji,67,SMB,Referral,2024-04-13,Active
+C0976,Apex Technologies 0976,Healthcare,West,Goa,Panaji,28,SMB,Event,2025-12-12,Active
+C0977,Orbit Solutions 0977,Manufacturing,South,Tamil Nadu,Chennai,23,SMB,Referral,2025-05-13,Active
+C0978,Prime Industries 0978,Retail,South,Kerala,Thiruvananthapuram,44,SMB,Paid Search,2024-02-22,Active
+C0979,Summit Systems 0979,Manufacturing,South,Kerala,Thiruvananthapuram,49,SMB,Outbound Sales,2026-05-19,Active
+C0980,Bright Labs 0980,Telecommunications,East,Jharkhand,Ranchi,77,SMB,Outbound Sales,2025-10-12,Active
+C0981,Alpha Technologies 0981,Media & Entertainment,West,Maharashtra,Mumbai,57,SMB,Organic,2026-02-06,Active
+C0982,Nova Solutions 0982,Technology,South,Telangana,Hyderabad,925,Mid-Market,Outbound Sales,2024-10-01,Active
+C0983,Vertex Industries 0983,Media & Entertainment,West,Gujarat,Surat,75,SMB,Paid Search,2026-02-16,Active
+C0984,BluePeak Systems 0984,Technology,West,Gujarat,Ahmedabad,93,SMB,Paid Search,2024-05-22,Active
+C0985,Green Labs 0985,Financial Services,East,Odisha,Bhubaneswar,752,Mid-Market,Organic,2026-02-01,Inactive
+C0986,Apex Technologies 0986,Manufacturing,South,Kerala,Thiruvananthapuram,12,SMB,Organic,2025-09-28,Active
+C0987,Orbit Solutions 0987,Financial Services,South,Kerala,Kochi,406,Mid-Market,Outbound Sales,2024-09-02,Active
+C0988,Prime Industries 0988,Retail,South,Tamil Nadu,Chennai,71,SMB,Paid Search,2025-04-07,Active
+C0989,Summit Systems 0989,Telecommunications,South,Tamil Nadu,Coimbatore,53,SMB,Paid Search,2025-08-09,Active
+C0990,Bright Labs 0990,Professional Services,South,Tamil Nadu,Madurai,165,Mid-Market,Outbound Sales,2025-10-23,Active
+C0991,Alpha Technologies 0991,Telecommunications,South,Tamil Nadu,Coimbatore,924,Mid-Market,Outbound Sales,2024-12-08,Active
+C0992,Nova Solutions 0992,Education,North,Haryana,Faridabad,727,Mid-Market,Organic,2024-11-12,Active
+C0993,Vertex Industries 0993,Financial Services,North,Haryana,Faridabad,45,SMB,Partner,2025-12-22,Active
+C0994,BluePeak Systems 0994,Technology,East,West Bengal,Kolkata,74,SMB,Organic,2025-12-31,Active
+C0995,Green Labs 0995,Logistics,South,Kerala,Kochi,24,SMB,Outbound Sales,2025-04-27,Active
+C0996,Apex Technologies 0996,Telecommunications,South,Telangana,Hyderabad,46,SMB,Partner,2025-10-04,Active
+C0997,Orbit Solutions 0997,Telecommunications,South,Karnataka,Bengaluru,3326,Enterprise,Event,2026-02-01,Active
+C0998,Prime Industries 0998,Education,East,Bihar,Patna,60,SMB,Organic,2026-04-11,Active
+C0999,Summit Systems 0999,Logistics,North,Haryana,Gurugram,4122,Enterprise,Organic,2025-01-27,Active
+C1000,Bright Labs 1000,Professional Services,West,Goa,Panaji,53,SMB,Referral,2025-09-13,Active
