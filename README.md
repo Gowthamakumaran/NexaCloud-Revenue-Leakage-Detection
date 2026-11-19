@@ -22,7 +22,16 @@ This project investigates these areas to identify potential financial risks and 
 | MySQL | SQL investigation and validation |
 | Power BI | Data modelling, DAX and interactive dashboards |
 
-## 4. Dataset Overview
+## 4. Explore the Project Files
+
+| Component | File | Description |
+|---|---|---|
+| Python | [Data Exploration Notebook](notebooks/01_Data_Exploration.ipynb) | Data inspection and exploratory analysis |
+| SQL | [SQL Investigation](sql/SQL_Investigation.sql) | Original SQL investigation and validation queries |
+| Power BI | [Interactive Dashboard (PBIX)](powerbi/NexaCloud_Revenue_Leakage_Analysis.pbix) | Downloadable Power BI report |
+| Dashboard Preview | [Dashboard PDF](powerbi/NexaCloud_Revenue_Leakage_Analysis.pdf) | Exported dashboard pages for quick review |
+
+## 5. Dataset Overview
 
 | Table | Records |
 |---|---:|
@@ -33,7 +42,7 @@ This project investigates these areas to identify potential financial risks and 
 | Refunds | 782 |
 | Leakage Ground Truth | 511 |
 
-## 5. Investigation Areas and Findings
+## 6. Investigation Areas and Findings
 
 ### Duplicate Payment Pattern
 - 44 ground-truth flagged invoice records.
@@ -61,7 +70,7 @@ The supplied reference records total approximately **₹6.79 crore**.
 
 This is a dataset-provided reference amount, not a confirmed cash-loss figure.
 
-## 6. Power BI Dashboard
+## 7. Power BI Dashboard
 
 The report contains three analytical pages:
 
@@ -69,9 +78,9 @@ The report contains three analytical pages:
 2. **Receivables Analysis** — overdue receivables, overdue invoice count, average days overdue, and customer-level exposure.
 3. **Payment Failure & Revenue Leakage Analysis** — payment attempts, failed payments, failure rate, indicative excess discounts, and ground-truth reference amounts.
 
-Dashboard screenshots will be added to this repository.
+For a quick view, open the [Power BI Dashboard PDF](powerbi/NexaCloud_Revenue_Leakage_Analysis.pdf). To explore the report interactively, download the [Power BI PBIX file](powerbi/NexaCloud_Revenue_Leakage_Analysis.pbix) and open it in Power BI Desktop.
 
-## 7. Project Workflow
+## 8. Project Workflow
 
 1. Data cleaning and exploratory analysis using Python.
 2. Importing operational datasets into MySQL.
@@ -79,14 +88,14 @@ Dashboard screenshots will be added to this repository.
 4. Validation against supplied ground-truth records.
 5. Data modelling and dashboard development in Power BI.
 
-## 8. Limitations
+## 9. Limitations
 
 - The project uses a synthetic dataset.
 - Ground-truth reference amounts are not independently verified financial losses.
 - Indicative excess discounts require business-rule validation.
 - Potential anomalies should be investigated further before financial conclusions are made.
 
-## 9. Repository Structure
+## 10. Repository Structure
 
 The repository will include:
 
@@ -96,7 +105,7 @@ The repository will include:
 - `data/` — Dataset files, subject to size and sharing considerations.
 - `docs/` — Supporting project documentation.
 
-## 10. Author
+## 11. Author
 
 **Gowtham D**  
 MBA — Marketing & Analytics  
