@@ -88,6 +88,20 @@ For a quick view, open the [Power BI Dashboard PDF](powerbi/NexaCloud_Revenue_Le
 4. Validation against supplied ground-truth records.
 5. Data modelling and dashboard development in Power BI.
 
+### Dashboard Previews
+
+**1. Revenue Performance Overview**
+
+![Revenue Overview](powerbi/Dashboard_Screenshots/01_Revenue_Overview.png)
+
+**2. Receivables & Collection Risk Analysis**
+
+![Receivables Analysis](powerbi/Dashboard_Screenshots/02_Receivables_Analysis.png)
+
+**3. Payment Failure & Revenue Leakage Analysis**
+
+![Revenue Leakage Analysis](powerbi/Dashboard_Screenshots/03_Revenue_Leakage_Analysis.png)
+
 ## 9. Limitations
 
 - The project uses a synthetic dataset.
@@ -107,8 +121,6 @@ The repository will include:
 
 ## 11. Author
 
-**Gowtham D**  
-MBA — Marketing & Analytics  
-Areas of interest: Data Analytics and Business Analytics.
+**Gowtham D** 
 
 
