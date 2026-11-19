@@ -102,6 +102,4 @@ The repository will include:
 MBA — Marketing & Analytics  
 Areas of interest: Data Analytics and Business Analytics.
 
----
 
-*Developed as an end-to-end data analytics portfolio project using Python, MySQL, and Power BI.*
