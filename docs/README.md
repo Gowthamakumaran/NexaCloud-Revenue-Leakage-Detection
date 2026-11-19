@@ -2,7 +2,6 @@
 
 This folder contains the detailed project report for NexaCloud Revenue Leakage Detection.
 
-## Available Documents
+## Available Document
 
-- NexaCloud_Project_Report.docx — Editable project report.
-- NexaCloud_Project_Report.pdf — PDF version of the project report.
+- NexaCloud_Project_Report.pdf — Complete project report.
